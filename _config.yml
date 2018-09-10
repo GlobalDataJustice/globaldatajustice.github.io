@@ -28,6 +28,7 @@ navbar-links:
     - Project Overview: "http://deanattali.com/beautiful-jekyll/"
     - Publications: "http://www.markdowntutorial.com/"
     - Events: "https://pages.github.com/"
+  Blog:
   Contact: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
