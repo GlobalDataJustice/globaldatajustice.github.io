@@ -25,7 +25,7 @@ description: A globally inclusive conversation about the future of data
 navbar-links:
   About Us:
   - Team:
-  - Project Associates
+  - Project Associates:
   Research:
     - Project Overview: "http://deanattali.com/beautiful-jekyll/"
     - Publications: "http://www.markdowntutorial.com/"
