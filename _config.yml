@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: http://globaldatajustice.github.io
+url: ""
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -75,7 +75,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-# email: gdj@uvt.nl"
+# email: "gdj@uvt.nl"
 # facebook: daattali
 # github: GlobalDataJustice
   twitter: GlobalDataJust
