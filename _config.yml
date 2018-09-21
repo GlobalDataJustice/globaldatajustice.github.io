@@ -23,9 +23,7 @@ description: A globally inclusive dialogue about the future of data
 
 # List of links in the navigation bar
 navbar-links:
-  People:
-  - Team: "team"
-  - Project Associates: "associates"
+  Team: "team" 
   Research:
     - Project Overview: "overview"
     - Publications: "publications"
