@@ -11,6 +11,6 @@ Please join us at one of these upcoming events:
 - Event 3
 - Event 4
 
-## Past Participation
+### Past Participation
 
 Martin, A. (2018, August). <i>Identification Barriers to Refugee Mobile Access</i>. Paper presented at the World Conference on Humanitarian Studies, The Hague, The Netherlands.
