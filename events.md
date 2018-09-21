@@ -1,16 +1,16 @@
 ---
 layout: page
-title: GDJ Events
+title: Events
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Please join us at one of these upcoming events:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Event 1 (in chronological order)
+- Event 2
+- Event 3
+- Event 4
 
-What else do you need?
+### Past Participation
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Martin, A. (2018, August). <i>Identification Barriers to Refugee Mobile Access</i>. Paper presented at the World Conference on Humanitarian Studies, The Hague, The Netherlands.
