@@ -23,11 +23,11 @@ description: A globally inclusive dialogue about the future of data
 
 # List of links in the navigation bar
 navbar-links:
-  Team: "team" 
   Research:
     - Project Overview: "overview"
     - Publications: "publications"
     - Events: "events"
+  Team: "team"
   Blog: "blog"
   Contact: "contact"
 
