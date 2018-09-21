@@ -1,15 +1,14 @@
 ---
 layout: page
 title: Publications
-subtitle: Why you'd want to go on a date with me
+subtitle: Our research outputs
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+A sample of relevant research publications:
+- <b>Taylor, L.</b> (2017). What Is Data Justice? The Case for Connecting Digital Rights and Freedoms Globally. <i>Big Data & Society</i>, July–December 2017, 1–14.
+- Donovan, K. P., Frowd, P. M., & <b>Martin, A. K.</b> (2016). ASR Forum on Surveillance in Africa: Introduction. <i>African Studies Review</i>, 59(2), 31-37.
+- Donovan, K. P., & <b>Martin, A. K.</b> (2014). The Rise of African SIM Registration: The Emerging Dynamics of Regulatory Change. <i>First Monday</i>, 19(2-3).
+- Kernis, M. H., Cornell, D. P., Sun, C. R., Berry, A., Harlow, T., & Bach, J. S. (1993). There's more to self-esteem than whether it is high or low: The importance of stability of self-esteem. Journal of Personality and Social Psychology, 65, 1190-1204.
 
 ### my history
 
