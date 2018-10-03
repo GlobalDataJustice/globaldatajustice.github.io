@@ -6,8 +6,8 @@ subtitle:
 
 Please join us at one of these upcoming events:
 
-- [Amsterdam Privacy Conference](https://www.apc2018.com): We're participating on a panel on Data and the Global South
-- [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/news-call-for-papter-tilting-perspectives-transition.htm): We're organzing a track on Justice and the Data Market as well as a side workshop on data markets
+- [Amsterdam Privacy Conference](https://www.apc2018.com): We're participating on a panel on Data and the Global South (8 October 2018)
+- [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/news-call-for-papter-tilting-perspectives-transition.htm): We're organzing a track on Justice and the Data Market as well as a side workshop on data markets (15-17 May 2019)
 
 ### Past Participation
 
