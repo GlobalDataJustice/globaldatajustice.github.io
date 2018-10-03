@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-subtitle: Do we need a subtitle?
+subtitle:
 ---
 
 
@@ -32,13 +32,6 @@ I am interested in how we can have a more inclusive global conversation around d
 Holding an MA in political science (global studies) from the University of Ljubljana, Tjaša is currently pursuing LLM programmes EU Law and Law and Technology at Tilburg University.
 Prior to returning back to school, Tjaša worked in EU public affairs both in Brussels and Ljubljana for several years, recently focusing in particular on EU science and innovation policy and regulation.
 Tjaša is interested in political economy of big data and online platforms, as well as intersections of health, environment, and technology.
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
 
