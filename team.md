@@ -21,7 +21,7 @@ Hellen is a PhD Researcher on the Global Data Justice project. Her research int
 
 ### Shazade Jameson
 
-Shazade is a social science researcher specialising in digital governance and smart urbanism, and a PhD candidate on the Global Data Justice project. Her background spans international development studies, human geography, urban sustainability, and cognitive psychology. She is interested in how we can have a more inclusive global conversation around data governance in the context of economic growth. In particular, her research investigates the implications of data innovation in public sector governance of smart cities. What does it mean to move towards a digital society? Currently, she is thinking about the how uncertainty and adaptation are dealt with in experimental approaches to urban development, and how data-driven decision-making reshapes our relationship to the risk society. 
+Shazade is a social science researcher specialising in digital governance and smart urbanism, and a PhD Researcher on the Global Data Justice project. Her background spans international development studies, human geography, urban sustainability, and cognitive psychology. She is interested in how we can have a more inclusive global conversation around data governance in the context of economic growth. In particular, her research investigates the implications of data innovation in public sector governance of smart cities. What does it mean to move towards a digital society? Currently, she is thinking about the how uncertainty and adaptation are dealt with in experimental approaches to urban development, and how data-driven decision-making reshapes our relationship to the risk society. 
 
 ## Project Associates
 
@@ -31,4 +31,4 @@ TBD
 
 ### Tjaša Petročnik
 
-Holding an MA in political science (global studies) from the University of Ljubljana, Tjaša is currently pursuing LLM programmes EU Law and Law and Technology at Tilburg University. Prior to returning back to school, Tjaša worked in EU public affairs both in Brussels and Ljubljana for several years, recently focusing in particular on EU science and innovation policy and regulation. Tjaša is interested in political economy of big data and online platforms, as well as intersections of health, environment, and technology.
+Tjaša is currently pursuing LLMs in EU Law and Law and Technology at Tilburg University. Prior to her law course, Tjaša worked in EU public affairs both in Brussels and Ljubljana for several years, recently focusing in particular on EU science and innovation policy and regulation. Tjaša is interested in the political economy of big data and online platforms, as well as intersections of health, environment, and technology. She holds an MA in Political Science (Global Studies) from the University of Ljubljana.
