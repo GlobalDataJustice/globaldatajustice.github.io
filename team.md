@@ -21,13 +21,13 @@ Hellen is a PhD Researcher on the Global Data Justice project. Her research int
 
 ### Shazade Jameson
 
-Shazade is a social science researcher specialising in digital governance and smart urbanism, and a PhD Researcher on the Global Data Justice project. Her background spans international development studies, human geography, urban sustainability, and cognitive psychology. She is interested in how we can have a more inclusive global conversation around data governance in the context of economic growth. In particular, her research investigates the implications of data innovation in public sector governance of smart cities. What does it mean to move towards a digital society? Currently, she is thinking about the how uncertainty and adaptation are dealt with in experimental approaches to urban development, and how data-driven decision-making reshapes our relationship to the risk society. 
+Shaz is a social science researcher specialising in digital governance and smart urbanism, and a PhD Researcher on the Global Data Justice project. Her background spans international development studies, human geography, urban sustainability, and cognitive psychology. She is interested in how we can have a more inclusive global conversation around data governance in the context of economic growth. In particular, her research investigates the implications of data innovation in public sector governance of smart cities. What does it mean to move towards a digital society? Currently, she is thinking about the how uncertainty and adaptation are dealt with in experimental approaches to urban development, and how data-driven decision-making reshapes our relationship to the risk society. 
 
 ## Project Associates
 
-### Kevin Donovan
+### Kevin P. Donovan
 
-TBD
+[Kevin](http://kevinpdonovan.com) is in the programs in Anthropology & History and Science, Technology & Society at the University of Michigan. He has written on the politics of biometric identification and digital financial infrastructure in South Africa and Kenya. 
 
 ### Tjaša Petročnik
 
