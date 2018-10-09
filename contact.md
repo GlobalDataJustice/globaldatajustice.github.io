@@ -11,7 +11,7 @@ Contact us securely via **Signal** at: +31-XXX-XXX-XXX
 Follow the project on **Twitter**: [@GlobalDataJust](https://twitter.com/globaldatajust)
 
 **Mailing address**:<br>
-Linnet Taylor<br>
+Dr. Linnet Taylor<br>
 Tilburg Institute for Law, Technology, and Society<br>
 P.O. Box 90153<br>
 5000 LE Tilburg<br>
