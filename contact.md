@@ -6,8 +6,6 @@ subtitle: Get in touch
 
 For **general inquiries**, the Global Data Justice project team can be reached by e-mail at: info (at) globaldatajustice (dot) org
 
-Contact us securely via **Signal** at: +31-XXX-XXX-XXX
-
 Follow the project on **Twitter**: [@GlobalDataJust](https://twitter.com/globaldatajust)
 
 **Mailing address**:<br>
