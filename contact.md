@@ -8,7 +8,7 @@ For **general inquiries**, the Global Data Justice project team can be reached b
 
 Contact us securely via **Signal** at: +31-XXX-XXX-XXX
 
-Follow the project on **Twitter**: @GlobalDataJust
+Follow the project on **Twitter**: (@GlobalDataJust)[https://twitter.com/globaldatajust]
 
 **Mailing address**:<br>
 Linnet Taylor<br>
