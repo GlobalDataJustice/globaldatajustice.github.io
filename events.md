@@ -6,7 +6,7 @@ subtitle:
 
 ### Please join us at an upcoming event:
 
-- [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/news-call-for-papter-tilting-perspectives-transition.htm): We're organzing a track on Justice and the Data Market as well as a side workshop on the political economy of web tracking (15-17 May 2019)
+- [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/news-call-for-papter-tilting-perspectives-transition.htm): We're organizing a track on Justice and the Data Market as well as a side workshop on the political economy of web tracking (15-17 May 2019)
 
 ### Past Participation
 
