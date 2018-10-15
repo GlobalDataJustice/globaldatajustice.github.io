@@ -10,7 +10,7 @@ subtitle:
 
 ### Past Participation
 
-- Taylor, L., Arora, P., Martin, A.K., & Jameson, S. (2018, October). _Data and the Global South_. Panel at the Amsterdam Privacy Conference, Netherlands.
+- Taylor, L., Arora, P., Martin, A.K., & Jameson, S. (2018, October). _Data and the Global South_. Panel at the Amsterdam Privacy Conference, The Netherlands.
 - Taylor, L. (2018, October). _Public Health, Private Knowledge: Researching technology and data as a way to understand the global political economy of health_. Seminar at the Centre for Medical Science and Technology Studies, University of Copenhagen, Denmark.
 - Taylor, L. & Dencik, L. (2018, September). _The Fog of Law: How data ethics depoliticises questions of regulation and governance_. Paper presented at the University of Copenhagen, Denmark.
 - Jameson, S. (2018, August). _Governance Alternatives_. Session moderated at the MyData Conference, Helsinki, Finland.
