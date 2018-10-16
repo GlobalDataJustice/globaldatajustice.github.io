@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Group Privacy: Taking The Discussion Forward
+subtitle: By Linnet Taylor
 tags: [test]
 ---
 
