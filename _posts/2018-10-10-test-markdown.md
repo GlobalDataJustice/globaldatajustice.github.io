@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Group Privacy: Taking The Discussion Forward
+title: Taking the Group Privacy Discussion Forward
 tags: [test]
 ---
 
