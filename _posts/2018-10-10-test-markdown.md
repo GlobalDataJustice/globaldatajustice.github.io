@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Group Privacy: Taking The Discussion Forward
-subtitle: By Linnet Taylor
 tags: [test]
 ---
 
