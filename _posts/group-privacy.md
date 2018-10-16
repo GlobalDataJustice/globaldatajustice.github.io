@@ -1,3 +1,10 @@
+---
+layout: post
+title: Group Privacy: Taking The Discussion Forward
+subtitle: By Linnet Taylor
+tags: group privacy
+---
+
 What follows is an account of the group privacy session at the Amsterdam Privacy Conference on October 8, 2018. This is the precursor to a new round of debates on this topic with a view to producing a book or journal special issue. It links to [this previous discussion](https://linnettaylor.wordpress.com/2017/01/10/group-privacy-a-new-book-on-the-next-generation-of-privacy-problems), which resulted in the book _Group Privacy: New Challenges of Data Technologies_.
 
 **Where we are now:**
