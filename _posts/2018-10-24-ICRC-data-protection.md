@@ -5,7 +5,7 @@ subtitle: By Aaron Martin
 tags: [humanitarian]
 ---
 
-Yesterday I participated in a side event on data protection in humanitarian action at the 2018 International Conference of Data Protection and Privacy Commissioners in Brussels. The context of the meeting is a planned update to the [Handbook on Data Protection in Humanitarian Action](https://www.icrc.org/en/publication/handbook-data-protection-humanitarian-action), first published in 2017 by the International Committee of the Red Cross (ICRC) and Belgian Privacy Hub. 
+Yesterday I participated in a side event on data protection in humanitarian action at the 2018 International Conference of Data Protection and Privacy Commissioners in Brussels. The context of the meeting is a planned update to the [Handbook on Data Protection in Humanitarian Action](https://www.icrc.org/en/publication/handbook-data-protection-humanitarian-action), first published in 2017 by the International Committee of the Red Cross (ICRC) and Brussels Privacy Hub. 
 
 The Handbook aims to equip staff of humanitarian organizations with data protection guidance for processing personal data as part of their operations. New crises and emerging technologies introduce new data protection challenges. A working group has been established to identify and respond to these challenges, as well as to address other gaps in the handbook a year into its use.
 
@@ -31,4 +31,4 @@ Several themes emerged during the event, which I summarize below:
 
 **Group Privacy Concerns**: It was encouraging to hear an acknowledgment that the risks extend beyond individual-level concerns with ‘personal data’. Can updated guidance address community-level risks (e.g. demographic information which can be used to afflict harm on certain groups)?
 
-We look forward to engaging the ICRC and Belgian Privacy Hub as they work on updates to the Handbook through 2019.
+We look forward to engaging the ICRC and Brussels Privacy Hub as they work on updates to the Handbook through 2019.
