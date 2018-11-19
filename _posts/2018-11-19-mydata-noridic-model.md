@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MyData’s Nordic model for data governance: a libertarian fantasy worth engaging with
+title: MyData’s Nordic model for data governance, a libertarian fantasy worth engaging with
 subtitle: By Linnet Taylor
 tags: [MyData, governance, libertarianism]
 ---
