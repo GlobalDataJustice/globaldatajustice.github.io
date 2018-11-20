@@ -10,7 +10,7 @@ subtitle:
 
 ### Past Participation
 
-- Jameson, S. (2018 November). _Global Data Justice in an Era of Big Data: What are the questions for Singapore's Smart Nation?_. Paper presented at the Department of Humanities, Arts and Social Sciences, Singapore University of Technology and Design.
+- Jameson, S. (2018 November). _Global Data Justice in an Era of Big Data: What are the questions for Singapore's Smart Nation?_. Paper presented at the Department of Humanities, Arts and Social Sciences, Singapore University of Technology and Design, Singapore.
 - Martin, A.K. (2018, November). _Refugees Digital Rights: Necessities and needs_. Panel at the Internet Governance Forum, Paris, France.
 - Taylor, L., Arora, P., Martin, A.K., & Jameson, S. (2018, October). _Data and the Global South_. Panel at the Amsterdam Privacy Conference, The Netherlands.
 - Taylor, L. (2018, October). _Public Health, Private Knowledge: Researching technology and data as a way to understand the global political economy of health_. Seminar at the Centre for Medical Science and Technology Studies, University of Copenhagen, Denmark.
