@@ -6,11 +6,13 @@ subtitle:
 
 ### Please join us at an upcoming event:
 
-- [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/news-call-for-papter-tilting-perspectives-transition.htm): We're organizing a track on Justice and the Data Market as well as a side workshop on the political economy of web tracking (15-17 May 2019)
+- [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives): We're organizing a track on Justice and the Data Market as well as a side workshop on the political economy of web tracking (15-17 May 2019)
 
 ### Past Participation
 
-- Jameson, S. (2018 November). _Global Data Justice in an Era of Big Data: What are the questions for Singapore's Smart Nation?_. Paper presented at the Department of Humanities, Arts and Social Sciences, Singapore University of Technology and Design, Singapore.
+- Martin, A. (2018, December). _Digital Risks in Situations of Armed Conflict_. Symposium organized by the International Committee of the Red Cross (ICRC), London, UK.
+- Martin, A. (2018, December). _Group Data & Human Rights_. Workshop organized by the World Economic Forum at the The RSA (Royal Society of Arts, Manufactures and Commerce), London, UK.
+- Jameson, S. (2018, November). _Global Data Justice in an Era of Big Data: What are the questions for Singapore's Smart Nation?_. Paper presented at the Department of Humanities, Arts and Social Sciences, Singapore University of Technology and Design, Singapore.
 - Martin, A.K. (2018, November). _Refugees Digital Rights: Necessities and needs_. Panel at the Internet Governance Forum, Paris, France.
 - Taylor, L., Arora, P., Martin, A.K., & Jameson, S. (2018, October). _Data and the Global South_. Panel at the Amsterdam Privacy Conference, The Netherlands.
 - Taylor, L. (2018, October). _Public Health, Private Knowledge: Researching technology and data as a way to understand the global political economy of health_. Seminar at the Centre for Medical Science and Technology Studies, University of Copenhagen, Denmark.
