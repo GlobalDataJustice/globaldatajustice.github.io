@@ -1,0 +1,20 @@
+---
+layout: post
+title: Personal Data for Security in Kenya
+subtitle: By Hellen Mukiri-Smith
+tags: [Kenya, security, data]
+---
+Even with increased surveillance of populations through use of new technologies, some panoptic features of surveillance remain. In Kenya, physical and spatial surveillance carried out from a single or central point aimed at [‘self-disciplining of watched subjects,’](https://link.springer.com/content/pdf/10.1007%2Fs13347-016-0219-1.pdf) to influence their behaviour, [to make them docile](https://link.springer.com/content/pdf/10.1007%2Fs13347-016-0219-1.pdf), remains very much a reality. This form of surveillance is increasingly combined with collecting personal data at central points within government and private buildings, using both traditional and modern methods of data collection.
+
+For as long as I can remember, in order to access public and private buildings in Nairobi, one has always needed to either show and or leave an identification document, usually a National Identification Card (ID) at reception desks in these buildings.  IDs contains personal information, including biometric data such as one’s facial image, thumb print and signature. During my recent visit to Nairobi, it became evident that since the [Westgate bombing in Nairobi in 2013](https://www.bbc.com/news/world-africa-24230160), receptionists or askaris (watchmen and watchwomen) stationed in both public and private buildings, including apartment buildings, have been mandated to collect more personal information from visitors than they did previously, before visitors are granted access to buildings. To access buildings, visitors are required to, in addition to being subjected to physical security checks on their person and property and monitoring through CCTV cameras, provide or note down in designated building log books, personal information, including:
+
+-	Full Name
+-	Identification Card Number
+-	Mobile Telephone Number
+-	Vehicle registration plate
+-	Signature
+-	Time in and out of buildings
+
+In addition to providing the above information, visitors are also required to leave an identification document at the reception desk before accessing buildings - an ID, passport or other accepted identification documents. In some cases, identification documents are also scanned before they are placed in a pile with all other visitors’ documents collected by the receptionist or askari. In highly secure buildings, mobile telephone numbers provided by visitors have to be verified before a visitor’s pass is issued. After submitting a mobile number, an automated message with a security PIN is sent to the visitor’s mobile phone and the visitor is then required to provide the code to the receptionist or askari. The PIN is a way for the receptionist or askari to verify that the mobile number provided to them is correct. 
+
+With large amounts of data being collected across buildings in the country in different forms, consideration should be given to what happens to all the data collected and how best to balance competing interests that come to the fore with surveillance. On the one hand, there is a strong case for surveillance within buildings especially after the shocking Westgate bombing left [‘72 dead and nearly 200 injured’](https://www.bbc.com/news/world-africa-24230160) and the [2015 Garissa University College attacks left 147 students dead](https://www.aljazeera.com/news/2016/04/kenya-marks-sombre-anniversary-garissa-massacre-160402063627683.html). On the other hand, there are concerns about: (a) preservation of ['a zone of informational autonomy'](https://scholarship.law.georgetown.edu/cgi/viewcontent.cgi?article=1819&context=facpub) for individuals in the face of surveillance needs and (b) spillover effects of data - acquisition of data by other parties, especially in light of news reports of [stolen IDs](https://www.nation.co.ke/news/Vital-clues-in-hunt-for-Monica-Kimani-killers/1056-4792174-7tk1t7z/index.html) from reception desks and claims that log books with personal information are often sold by receptionists or askaris, to people who then use the information for unscrupulous purposes.
