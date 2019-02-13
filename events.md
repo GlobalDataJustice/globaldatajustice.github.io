@@ -9,7 +9,7 @@ subtitle:
 - [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives): We're organizing a track on Justice and the Data Market as well as a side workshop on the political economy of web tracking (15-17 May 2019)
 
 ### Past Participation
-
+- Martin, A. (2019, January). _Converging Norms in Emerging Markets: The Trajectory of Data Protection Reform in Asia_. Panel chaired at the Computers, Privacy & Data Protection Conference, Brussels, Belgium.
 - Martin, A. (2018, December). _Digital Risks in Situations of Armed Conflict_. Symposium organized by the International Committee of the Red Cross (ICRC), London, UK.
 - Martin, A. (2018, December). _Group Data & Human Rights_. Workshop organized by the World Economic Forum at the The RSA (Royal Society of Arts, Manufactures and Commerce), London, UK.
 - Jameson, S. (2018, November). _Global Data Justice in an Era of Big Data: What are the questions for Singapore's Smart Nation?_. Paper presented at the Department of Humanities, Arts and Social Sciences, Singapore University of Technology and Design, Singapore.
