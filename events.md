@@ -8,9 +8,18 @@ subtitle:
 
 - [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives): We're organizing a track on Justice and the Data Market as well as sessions on the political economy of web tracking (15-17 May 2019)
 
+
+Invited presentation: ‘Uses and Misuses of Connected Devices’ workshop, Alan Turing Institute (London), 3-4 April – TITLE: 
+Invited lecture: Nelson Mandela School of Public Governance, University of Cape Town (5.3.19) TITLE: What is data justice for (South) Africa and who gets to decide?
+Invited lecture: Privacy & Sustainable Computing Lab, University of Vienna (9.1.18) TITLE: What’s ethical about data ethics?
+
+
 ### Past Participation
-- Martin, A. (2019, April). _Digital Ethics for Humanitarian Action: Five Provocations_. Talk given at the Workshop on Artifical Intelligence/Machine Learning and Data Protection in Humanitarian Action, Brussels, Belgium.
-- Martin, A. (2019, January). _Converging Norms in Emerging Markets: The Trajectory of Data Protection Reform in Asia_. Panel chaired at the Computers, Privacy & Data Protection Conference, Brussels, Belgium.
+- Taylor, L. (2019, April). _A Tale of Three Markets: The divided, and converging, world of connected objects_. Talk given at the Workshop on Uses and Misuses of Connected Devices at the Alan Turing Institute, London, UK.
+- Martin, A. (2019, April). _Digital Ethics for Humanitarian Action: Five provocations_. Talk given at the Workshop on Artifical Intelligence/Machine Learning and Data Protection in Humanitarian Action, Brussels, Belgium.
+- Taylor, L. (2019, March). _What is Data Justice for (South) Africa and Who Gets to Decide?_ Invited lecture at the Nelson Mandela School of Public Governance, University of Cape Town, South Africa.
+- Martin, A. (2019, January). _Converging Norms in Emerging Markets: The trajectory of data protection reform in Asia_. Panel chaired at the Computers, Privacy & Data Protection Conference, Brussels, Belgium.
+- Taylor, L. (2019, January). _What’s Ethical about Data Ethics?_. Invited lecture at the Privacy & Sustainable Computing Lab, University of Vienna, Austria.
 - Martin, A. (2018, December). _Digital Risks in Situations of Armed Conflict_. Symposium organized by the International Committee of the Red Cross (ICRC), London, UK.
 - Martin, A. (2018, December). _Group Data & Human Rights_. Workshop organized by the World Economic Forum at the The RSA (Royal Society of Arts, Manufactures and Commerce), London, UK.
 - Jameson, S. (2018, November). _Global Data Justice in an Era of Big Data: What are the questions for Singapore's Smart Nation?_. Paper presented at the Department of Humanities, Arts and Social Sciences, Singapore University of Technology and Design, Singapore.
@@ -24,6 +33,6 @@ subtitle:
 - Martin, A. (2018, August). _Identification Barriers to Refugee Mobile Access_. Paper presented at the World Conference on Humanitarian Studies, The Hague, The Netherlands.
 - Taylor, L. (2018, August). _Migration, Crisis and Data Management in the New Digital Humanitarian Sector_. Paper presented at the World Conference on Humanitarian Studies, The Hague, The Netherlands.
 - Taylor, L. (2018, June). _Data4Dev: Datafication and power in international development_. Panel at the Development Studies Association Annual Conference, University of Manchester, UK.
-- Jameson, S. (2018, May). _Nature and Networked Space: conceptual lessons for data justice from environmental literature_. Paper presented at the Data Justice Conference, Cardiff University, UK.
+- Jameson, S. (2018, May). _Nature and Networked Space: Conceptual lessons for data justice from environmental literature_. Paper presented at the Data Justice Conference, Cardiff University, UK.
 - Taylor, L. (2018, May). _Migration Research and Control in the Era of Big Data_. Paper presented at the Data Justice Conference, Cardiff University, UK.
 - Taylor, L. (2018, May). _Data and Ethics_. Panel chaired at the Data Justice Conference, Cardiff University, UK.
