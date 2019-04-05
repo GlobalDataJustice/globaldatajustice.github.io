@@ -5,6 +5,7 @@ subtitle: Our research outputs
 ---
 
 A sample of relevant research publications:
+- **Martin, A. K.** (2019). [Mobile Money Platform Surveillance](https://doi.org/10.24908/ss.v17i1/2.12924), _Surveillance & Society_ 17(1/2), 213-222.
 - Richter, C., **Taylor, L.**, **Jameson, S.** & Perez del Pulgar, C. (2019). <a href="https://www.routledge.com/Creating-Smart-Cities-1st-Edition/Coletta-Evans-Heaphy-Kitchin/p/book/9780815396253" target="_blank"> Who are the end-user(s) of smart cities? A synthesis of conversations in Amsterdam,</a> in _Creating Smart Cities_. Coletta, C., Evans, L., Heaphy, L. & Kitchin, R. (eds.). Abingdon: Routledge, 121-130.
 - **Taylor, L.** (2017). <a href="https://doi.org/10.1177/2053951717736335" target="_blank"> What Is Data Justice? The Case for Connecting Digital Rights and Freedoms Globally</a>. _Big Data & Society_, July–December 2017, 1–14.
 - Donovan, K. P., Frowd, P. M., & **Martin, A. K.** (2016). <a href="https://doi.org/10.1017/asr.2016.35" target="_blank"> ASR Forum on Surveillance in Africa: Introduction</a>. _African Studies Review_, 59(2), 31-37.
