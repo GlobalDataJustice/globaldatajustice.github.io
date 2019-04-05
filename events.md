@@ -8,12 +8,6 @@ subtitle:
 
 - [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives): We're organizing a track on Justice and the Data Market as well as sessions on the political economy of web tracking (15-17 May 2019)
 
-
-Invited presentation: ‘Uses and Misuses of Connected Devices’ workshop, Alan Turing Institute (London), 3-4 April – TITLE: 
-Invited lecture: Nelson Mandela School of Public Governance, University of Cape Town (5.3.19) TITLE: What is data justice for (South) Africa and who gets to decide?
-Invited lecture: Privacy & Sustainable Computing Lab, University of Vienna (9.1.18) TITLE: What’s ethical about data ethics?
-
-
 ### Past Participation
 - Taylor, L. (2019, April). _A Tale of Three Markets: The divided, and converging, world of connected objects_. Talk given at the Workshop on Uses and Misuses of Connected Devices at the Alan Turing Institute, London, UK.
 - Martin, A. (2019, April). _Digital Ethics for Humanitarian Action: Five provocations_. Talk given at the Workshop on Artifical Intelligence/Machine Learning and Data Protection in Humanitarian Action, Brussels, Belgium.
