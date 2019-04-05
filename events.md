@@ -9,6 +9,7 @@ subtitle:
 - [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives): We're organizing a track on Justice and the Data Market as well as sessions on the political economy of web tracking (15-17 May 2019)
 
 ### Past Participation
+- Martin, A. (2019, April). _Digital Ethics for Humanitarian Action: Five Provocations_. Talk given at the Workshop on Artifical Intelligence/Machine Learning and Data Protection in Humanitarian Action, Brussels, Belgium.
 - Martin, A. (2019, January). _Converging Norms in Emerging Markets: The Trajectory of Data Protection Reform in Asia_. Panel chaired at the Computers, Privacy & Data Protection Conference, Brussels, Belgium.
 - Martin, A. (2018, December). _Digital Risks in Situations of Armed Conflict_. Symposium organized by the International Committee of the Red Cross (ICRC), London, UK.
 - Martin, A. (2018, December). _Group Data & Human Rights_. Workshop organized by the World Economic Forum at the The RSA (Royal Society of Arts, Manufactures and Commerce), London, UK.
