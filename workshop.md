@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop on the Political Economy of Web Tracking (LT: please confirm this is the official workshop title; the conference program says Justice and Data Market Workshop)
+title: Workshop on the Political Economy of Web Tracking
 subtitle: May 17, 2019 at Tilburg University
 ---
 
