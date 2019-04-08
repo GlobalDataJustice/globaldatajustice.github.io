@@ -10,10 +10,11 @@ Participants will include scholars and practitioners working on web tracking res
 
 09:00-10:30 - Room DZ7: Keynote remarks by **Joris van Hoboken**, Professor of Law at the Vrije Universiteit Brussels and co-author of [Data Brokers in an Open Society](https://www.opensocietyfoundations.org/reports/data-brokers-open-society), and **Frederike Kaltheuner**, 
 Corporate Exploitation Programme Lead at Privacy International    
-10:30-11:45 - Room DZ7: Unconference session  
-11:45-13:15 - Room DZ7: Methods session with presentations by **[Martin Degeling]**(https://martin.degeling.com/), **[Wolfie Christl]**(https://wolfie.crackedlabs.org), and Princiya Sequeira   
+10:30-11:00 - Coffee break  
+11:00-11:45 - Room DZ7: Unconference session  
+11:45-13:15 - Room DZ7: Methods session with presentations by [**Martin Degeling**](https://martin.degeling.com/), [**Wolfie Christl**](https://wolfie.crackedlabs.org), and Princiya Sequeira   
 13:15-14:15 - Lunch  
-14:15-15:00 - Room DZ2: Keynote by Seda Gürses  
+14:15-15:00 - Room DZ2: Keynote onJustice and the Data Market by Seda Gürses  
 15:00-16:30 - Room DZ7: Political economy session with presenations by Rasmus...  
 
 Key Resources:
