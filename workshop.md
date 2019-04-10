@@ -20,7 +20,7 @@ Participants will include scholars and practitioners working on web tracking res
 **Key Resources**:
 
 - Englehardt, S. and A. Narayanan (2016) Online Tracking: A 1-million-site Measurement and Analysis. 2016 ACM SIGSAC Conference on Computer and Communications Security, Vienna, Austria. Available at: https://webtransparency.cs.princeton.edu/webcensus/
-- Ezrachi & Robertson (2018) Competition, Market Power and Third-Party Tracking. Forthcoming, World Competition: Law and Economics Review, 42(1). Available at SSRN: ssrn.com/abstract=3272552
+- Ezrachi & Robertson (2018) Competition, Market Power and Third-Party Tracking. Forthcoming, World Competition: Law and Economics Review, 42(1). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3272552
 - Falahrastegar, M., Haddadi, H., Uhlig, S. and Mortier, R. (2014) Anatomy of the Third-Party Web Tracking Ecosystem. arXiv:1409.1066 [cs]. Available at: http://arxiv.org/abs/1409.1066
 - Falahrastegar, M., Haddadi, H., Uhlig, S. and Mortier, R. (2016) Tracking Personal Identifiers Across the Web. 17th International Conference on Passive and Active Measurement, PAM 2016, Heraklion, Greece. Available at: http://doi.org/10.1007/978-3-319-30505-9_3 
 - Lerner, A., A. K. Simpson, T. Kohno, and F. Roesner (2016) Internet Jones and the Raiders of the Lost Trackers: An Archaeological Study of Web Tracking from 1996 to 2016. 25th USENIX Security Symposium, 2016, Austin, USA. Available at: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/lerner 
