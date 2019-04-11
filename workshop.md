@@ -15,7 +15,7 @@ Participants will include scholars and practitioners working on web tracking res
 - **13:15-14:15** Lunch  
 - **14:15-15:00** Room DZ2 - Keynote on 'Justice and the Data Market' by **Seda Gürses**, Assistant Professor at TU Delft  
 - **15:00-16:30** Room DZ7 - Political economy session with presentations by [**Rasmus Helles**](https://mcc.ku.dk/staff/?pure=en/persons/149580), Assistant Professor at the University of Copenhagen, **Seda Gürses**, and [**Frederik Borgesius**](https://www.ivir.nl/employee/zuiderveen-borgesius), Professor of Law, at Radboud University  
-- **16:30-15:00** Room DZ7 - Wrapping up
+- **16:30-17:00** Room DZ7 - Wrapping up
 
 **Key Resources**:
 - Englehardt, S. and A. Narayanan (2016) Online Tracking: A 1-million-site Measurement and Analysis. 2016 ACM SIGSAC Conference on Computer and Communications Security, Vienna, Austria. Available at: https://webtransparency.cs.princeton.edu/webcensus/
