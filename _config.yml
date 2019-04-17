@@ -29,6 +29,7 @@ navbar-links:
     - Events: "events"
   Team: "team"
   Blog: "blog"
+  Media: "media"
   Contact: "contact"
 
 paginate_path: "/blog/page:num/"
