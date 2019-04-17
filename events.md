@@ -12,6 +12,7 @@ subtitle:
 - Taylor, L. (2019, April). _A Tale of Three Markets: The divided, and converging, world of connected objects_. Talk given at the Workshop on Uses and Misuses of Connected Devices at the Alan Turing Institute, London, UK.
 - Martin, A. (2019, April). _Digital Ethics for Humanitarian Action: Five provocations_. Talk given at the Workshop on Artifical Intelligence/Machine Learning and Data Protection in Humanitarian Action, Brussels, Belgium.
 - Taylor, L. (2019, March). _What is Data Justice for (South) Africa and Who Gets to Decide?_ Invited lecture at the Nelson Mandela School of Public Governance, University of Cape Town, South Africa.
+- Mukiri-Smith, H. (2019, March). _Researching Legibility and Visibility Technologies in Kenya through the Capabilities and Political Settlement Theories_. Panel Presentation at the European Joint Doctorate in Law and Development (EDOLAD) Summer School, North-West University, South Africa.
 - Martin, A. (2019, January). _Converging Norms in Emerging Markets: The trajectory of data protection reform in Asia_. Panel chaired at the Computers, Privacy & Data Protection Conference, Brussels, Belgium.
 - Taylor, L. (2019, January). _What’s Ethical about Data Ethics?_. Invited lecture at the Privacy & Sustainable Computing Lab, University of Vienna, Austria.
 - Martin, A. (2018, December). _Digital Risks in Situations of Armed Conflict_. Symposium organized by the International Committee of the Red Cross (ICRC), London, UK.
