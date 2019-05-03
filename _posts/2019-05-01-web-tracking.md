@@ -13,4 +13,4 @@ Useful? We’ll find out. Possible? We’re hoping for people’s help with this
  
 The resulting dataset, when we have put it together, will be the first global dataset on web tracking. We’ll be making it open, so anyone can use it. And if we can make it to all the countries we need, we aim to repeat it over the next few years to see how tracking changes in each place.
  
-Can you help us? If so, send an e-mail to info@globaldatajustice.org and we’ll send you the instructions.
+Can you help us? If so, send an e-mail to info (at) globaldatajustice (dot) org and we’ll send you the instructions.
