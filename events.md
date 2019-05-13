@@ -6,7 +6,7 @@ subtitle:
 
 ### Please join us at an upcoming event:
 
-- [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives): We're organizing a track on Justice and the Data Market as well as sessions on the political economy of web tracking (15-17 May 2019)
+- [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives): We're organizing a track on Justice and the Data Market as well as a [workshop](https://globaldatajustice.org/workshop/) on the political economy of web tracking (15-17 May 2019)
 
 ### Past Participation
 - Taylor, L. (2019, April). _A Tale of Three Markets: The divided, and converging, world of connected objects_. Talk given at the Workshop on Uses and Misuses of Connected Devices at the Alan Turing Institute, London, UK.
