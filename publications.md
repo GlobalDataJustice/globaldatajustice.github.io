@@ -5,6 +5,10 @@ subtitle: Our research outputs
 ---
 
 A sample of relevant research publications:
+- **Taylor, L.** & Purtova, N. (in press). What is Responsible and Sustainable Data Science? A commons perspective. _Big Data & Society_.
+- **Taylor, L.** (2019). [Global Data Justice](https://ssrn.com/abstract=3415106). _Communications of the ACM_ 62(6), 22-24.
+10.1145/3325279. Available at SSRN: https://ssrn.com/abstract=3415106 
+- **Jameson, S.**, Richter, C. & **Taylor, L.** (2019). [People’s strategies for perceived surveillance in Amsterdam Smart City](https://doi.org/10.1080/02723638.2019.1614369), _Urban Geography_, Online First.
 - **Martin, A. K.** (2019). [Mobile Money Platform Surveillance](https://doi.org/10.24908/ss.v17i1/2.12924), _Surveillance & Society_, 17(1/2), 213-222.
 - Richter, C., **Taylor, L.**, **Jameson, S.** & Perez del Pulgar, C. (2019). <a href="https://www.routledge.com/Creating-Smart-Cities-1st-Edition/Coletta-Evans-Heaphy-Kitchin/p/book/9780815396253" target="_blank"> Who are the end-user(s) of smart cities? A synthesis of conversations in Amsterdam,</a> in _Creating Smart Cities_. Coletta, C., Evans, L., Heaphy, L. & Kitchin, R. (eds.). Abingdon: Routledge, 121-130.
 - **Taylor, L.** (2017). <a href="https://doi.org/10.1177/2053951717736335" target="_blank"> What Is Data Justice? The Case for Connecting Digital Rights and Freedoms Globally</a>. _Big Data & Society_, July–December 2017, 1–14.
