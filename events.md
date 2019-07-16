@@ -24,7 +24,7 @@ subtitle:
 - Martin, A. (2019, January). _Converging Norms in Emerging Markets: The trajectory of data protection reform in Asia_. Panel chaired at the Computers, Privacy & Data Protection Conference, Brussels, Belgium.
 - Taylor, L. (2019, January). _What’s Ethical about Data Ethics?_. Invited lecture at the Privacy & Sustainable Computing Lab, University of Vienna, Austria.
 - Martin, A. (2018, December). _Digital Risks in Situations of Armed Conflict_. Symposium organized by the International Committee of the Red Cross (ICRC), London, UK.
-- Martin, A. (2018, December). _Group Data & Human Rights_. Workshop organized by the World Economic Forum at the The RSA (Royal Society of Arts, Manufactures and Commerce), London, UK.
+- Martin, A. (2018, December). _Group Data & Human Rights_. Workshop organized by the World Economic Forum at the RSA (Royal Society of Arts, Manufactures and Commerce), London, UK.
 - Jameson, S. (2018, November). _Global Data Justice in an Era of Big Data: What are the questions for Singapore's Smart Nation?_. Paper presented at the Department of Humanities, Arts and Social Sciences, Singapore University of Technology and Design, Singapore.
 - Martin, A.K. (2018, November). _Refugees Digital Rights: Necessities and needs_. Panel at the Internet Governance Forum, Paris, France.
 - Taylor, L., Arora, P., Martin, A.K., & Jameson, S. (2018, October). _Data and the Global South_. Panel at the Amsterdam Privacy Conference, Netherlands.
