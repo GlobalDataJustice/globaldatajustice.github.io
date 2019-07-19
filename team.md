@@ -32,3 +32,7 @@ Shaz is a social science researcher specialising in digital governance and smart
 ### Tjaša Petročnik
 
 Tjaša is currently pursuing LLMs in EU Law and Law and Technology at Tilburg University. Prior to her law course, Tjaša worked in EU public affairs both in Brussels and Ljubljana for several years, recently focusing in particular on EU science and innovation policy and regulation. Tjaša is interested in the political economy of big data and online platforms, as well as the intersections of health, environment, and technology. She holds an MA in Political Science (Global Studies) from the University of Ljubljana.
+
+### Laura Savolainen
+
+Laura is a doctoral candidate in Sociology at the [Consumer Society Research Centre](https://www.helsinki.fi/en/researchgroups/centre-for-consumer-society-research) (KTK), University of Helsinki, where she works as a part of the [Data, Self and Society](https://www.helsinki.fi/en/researchgroups/centre-for-consumer-society-research/six-thematic-areas/data-self-and-society) research group. Laura holds a Research Master’s degree in Social Sciences from the University of Amsterdam. In her dissertation research, Laura applies concepts and research foci of material culture studies – such as waste and breakdown, infrastructural labor and maintenance – to critical data studies. In addition, she has researched activist and political self-presentation in social media, using mixed and computational methods.
