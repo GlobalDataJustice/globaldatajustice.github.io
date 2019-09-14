@@ -31,7 +31,7 @@ Shaz is a social science researcher specialising in digital governance and smart
 
 ### Tjaša Petročnik
 
-Tjaša is currently pursuing LLMs in EU Law and Law and Technology at Tilburg University. Prior to her law course, Tjaša worked in EU public affairs both in Brussels and Ljubljana for several years, recently focusing in particular on EU science and innovation policy and regulation. Tjaša is interested in the political economy of big data and online platforms, as well as the intersections of health, environment, and technology. She holds an MA in Political Science (Global Studies) from the University of Ljubljana.
+After obtaining LLMs in EU Law and Law and Technology at Tilburg University, Tjaša is now a PhD candidate at the Department of Law, Technology, Markets, and Society at Tilburg Law School. Prior to her law course, Tjaša worked in EU public affairs both in Brussels and Ljubljana for five years, most recently with a focus on EU science and innovation policy, regulation, and funding. Tjaša is interested in the political economy of data and online platforms, the intersections of health, environment, and technology, as well as bioethics. She also holds a BA and an MA in Political Science from the University of Ljubljana.
 
 ### Laura Savolainen
 
