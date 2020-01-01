@@ -14,11 +14,11 @@ But here we see how being part of a global data economy doesn’t necessarily me
 
 Microsoft’s cloud services:
 
-!(https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/acd0f075-9813-42db-bbe3-b09d4190e19d.png)
+![Microsoft cloud](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/acd0f075-9813-42db-bbe3-b09d4190e19d.png)
 
 …and Carnegie’s AI surveillance map:
 
-!(https://carnegieendowment.org/images/article_images/Feldstein-AISurveillance_WEB.jpg)
+![Carnegie AI surveillance](https://carnegieendowment.org/images/article_images/Feldstein-AISurveillance_WEB.jpg)
 
 What we see is that while you may not have access to the cloud, you can still be tracked and controlled by your government’s AI. This increase in the reach of data and analytics is even more noticeable for those who don’t have a country to call home. Refugees have become increasingly linked into the global data market over the last year as biometrics have become [a condition for receiving aid](https://reliefweb.int/report/yemen/world-food-programme-begins-partial-suspension-aid-yemen) and as huge tech firms such as Palantir have been [invited to process data about refugees and service provision]( https://slate.com/technology/2019/02/palantir-un-world-food-programme-data-humanitarians.html). Just as with non-refugee populations around the world, the provision of basic services and digital surveillance [have become increasingly intertwined](https://www.nytimes.com/2019/07/11/opinion/data-humanitarian-aid.html) – see, for example, the beginning of the massive rollout of biometric ID across Africa, starting in Kenya with the registration push for its [NIIMS](https://www.cio.co.ke/niims-mandatory-registration-huduma-namba-explained/) database.
 ID provision is a complex issue: people need ID to claim services, but this ‘you must have digital ID’ logic is increasingly getting bound up with the rights that underlie service provision – we don’t have the right to food or medical care because we have ID, we have ID because we have rights. This equation is frequently being turned around so that people can be cut off from the right to food, as in Yemen, or to freedom of association and political expression through their mobile phones, as with [Bangladesh’s attempt to silence the Rohingya refugee population](https://globalvoices.org/2019/09/03/bangladesh-cuts-access-to-mobile-phone-services-for-the-rohingya/) by cutting off their access to connectivity. 
