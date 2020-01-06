@@ -7,4 +7,4 @@ In the context of worsening humanitarian crises, aid organizations are facing in
 
 This project, sponsored by the Tilburg Law School, is thus exploring the phenomenon of ‘data partnership’ within the humanitarian sector in order to identify and address the regulatory, ethical and accountability concerns associated with this model of humanitarian aid. To do so, with the International Committee of the Red Cross as our co-convener, we are organizing three expert meetings in different locations globally (Netherlands, Geneva, Nairobi) to bring together key stakeholders to openly reflect on these issues under Chatham House Rule. These frank discussions will help us to better understand actors’ motivations and objectives in undertaking data partnerships, while also providing an opportunity for normative reflection.
 
-Contact person: Aaron Martin
+Contact person: [Aaron Martin](https://twitter.com/empo11on)
