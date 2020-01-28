@@ -21,7 +21,11 @@ Hellen is a PhD Researcher on the Global Data Justice project. Her research int
 
 ### Shazade Jameson
 
-Shaz is a social science researcher specialising in digital governance and smart urbanism, and a PhD Researcher on the Global Data Justice project. Her background spans international development studies, human geography, urban sustainability, and cognitive psychology. She is interested in how we can have a more inclusive global conversation around data governance in the context of economic growth. In particular, her research investigates the implications of data innovation in public sector governance of smart cities. What does it mean to move towards a digital society? Currently, she is thinking about the how uncertainty and adaptation are dealt with in experimental approaches to urban development, and how data-driven decision-making reshapes our relationship to the risk society. 
+Shaz is a social science researcher specializing in digital governance and smart urbanism, and a PhD Researcher on the Global Data Justice project. Her background spans international development studies, human geography, urban sustainability, and cognitive psychology. She is interested in how we can have a more inclusive global conversation around data governance in the context of economic growth. In particular, her research investigates the implications of data innovation in public sector governance of smart cities. What does it mean to move towards a digital society? Currently, she is thinking about the how uncertainty and adaptation are dealt with in experimental approaches to urban development, and how data-driven decision-making reshapes our relationship to the risk society. 
+
+### Gargi Sharma
+
+Gargi is a junior researcher at TILT, where she specializes in data governance in humanitarian and development contexts. Her current [project](https://globaldatajustice.org/humanitariandatapartnerships/) involves research on the increased prevalence of data partnerships in the humanitarian sector, addressing questions of regulation, ethics, and accountability. Prior to joining TILT, she was a legal consultant to the Government of Chhattisgarh in India and a legal intern at Greenpeace International. She graduated from Leiden University with an Advanced LLM in European and International Human Rights Law in 2018.
 
 ## Project Associates
 
