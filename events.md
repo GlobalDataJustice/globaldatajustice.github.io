@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ### Please join us at an upcoming event:
-- We will be convening a series of disussions on regulation, ethics, and accountability in humanitarian data partnerships over the latter half of 2019. If you're interested in joining a discussion, please contact us at info [at] globaldatajustice.org.
+- We are convening a [series of disussions on regulation, ethics, and accountability in humanitarian data partnerships](https://globaldatajustice.org/humanitariandatapartnerships) in late 2019/early 2020
 - We organized a track on Justice and the Data Market as well as a [workshop](https://globaldatajustice.org/workshop/) on the political economy of web tracking at the [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives) in May 2019. Watch this space for updates on these initaitives.
 
 ### Past Participation
