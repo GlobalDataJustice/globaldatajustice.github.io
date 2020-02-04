@@ -6,7 +6,6 @@ subtitle:
 
 ### Please join us at an upcoming event:
 - We are convening a [series of disussions on regulation, ethics, and accountability in humanitarian data partnerships](https://globaldatajustice.org/humanitariandatapartnerships) in late 2019/early 2020
-- We organized a track on Justice and the Data Market as well as a [workshop](https://globaldatajustice.org/workshop/) on the political economy of web tracking at the [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives) in May 2019. Watch this space for updates on these initaitives.
 
 ### Past Participation
 -	Taylor, L. (2019, July). _Why Is Only Some AI “Good”?_ Talk given at the Digital Ethics Lab Workshop — AI for Social Good: Promise and Pitfalls,  Exeter College, Oxford, UK.
