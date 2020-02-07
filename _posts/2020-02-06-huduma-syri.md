@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adjudicating Data Justice 
-subtitle: Linnet Taylor, Aaron Martin, and Sascha van Schendel
+subtitle: Linnet Taylor, Aaron Martin, and Sascha van Schendel with contributions from Aviva de Groot
 tags: Huduma Numba, NIIMS, SyRI, surveillance, identification, digital welfare, data justice, data protection
 ---
 In the span of less than a week, two important judicial decisions in Kenya and the Netherlands have demonstrated why a data justice framing is useful for analysing problems of technology in society. These two cases have kindled debates not just about data protection but also about technology’s mediating role in state-citizen relations. When states apply technological systems to provide basic functions such as registration, welfare provision, security and representation, these systems inevitably have a political character. Whom do they recognise and whom do they exclude? Does the state get to monitor and surveil people in the context of these basic governmental functions, and, if so, what should the limits be? If it is monitoring in real-time using digital surveillance, should it primarily be looking for errors and misuse, or checking that people are receiving their entitlements? Both the Huduma Namba (Kenya) and SyRI (Netherlands) cases have something to say about how states are using their power to monitor and surveil, and to what extent people have a right to limit or reject that scrutiny.
