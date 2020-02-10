@@ -4,7 +4,7 @@ title: Publications
 subtitle: Our research outputs
 ---
 
-A sample of relevant research publications:
+A sample of relevant research publications from the Global Data Justice team:
 - **Taylor, L.** & Purtova, N. (in press). What is Responsible and Sustainable Data Science? A commons perspective, _Big Data & Society_.
 - **Taylor, L.** (2019). [Global Data Justice](https://ssrn.com/abstract=3415106). _Communications of the ACM_, 62(6), 22-24.
 - **Jameson, S.**, Richter, C. & **Taylor, L.** (2019). [People’s strategies for perceived surveillance in Amsterdam Smart City](https://doi.org/10.1080/02723638.2019.1614369), _Urban Geography_. Advance online publication.
