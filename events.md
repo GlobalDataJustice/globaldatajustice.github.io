@@ -6,7 +6,7 @@ subtitle:
 
 ### Please join us at an upcoming event:
 - We are convening a [series of disussions on regulation, ethics, and accountability in humanitarian data partnerships](https://globaldatajustice.org/humanitariandatapartnerships) in late 2019/early 2020
-- On Tuesday, February 18, we will organize an (academic event)[https://twitter.com/empo11on/status/1227899163691692032] at the (Centre for Intellectual Property and Information Technology Law)[http://cipit.org/] at the Strathmore University
+- On Tuesday, February 18, we will organize an [academic event](https://twitter.com/empo11on/status/1227899163691692032) at the [Centre for Intellectual Property and Information Technology Law](http://cipit.org/) at the Strathmore University
 
 ### Past Participation
 -	Taylor, L. (2019, July). _Why Is Only Some AI “Good”?_ Talk given at the Digital Ethics Lab Workshop — AI for Social Good: Promise and Pitfalls,  Exeter College, Oxford, UK.
