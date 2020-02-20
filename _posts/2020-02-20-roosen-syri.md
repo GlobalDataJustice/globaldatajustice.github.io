@@ -1,3 +1,4 @@
+---
 layout: post
 title: What SyRi can teach us about technical solutions for societal challenges
 subtitle: Marijke Roosen
