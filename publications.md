@@ -10,7 +10,7 @@ A sample of relevant research publications from the Global Data Justice team
 - **Taylor, L.** (2020, forthcoming). Exploitation as Innovation: Research ethics and the governance of experimentation in the urban living lab. _Regional Studies_.
 - **Martin, A. K.** & **Taylor, L.** (2020, forthcoming). Exclusion and Inclusion in Identification: Regulatory policy, displacement, and data justice. _Information Technology for Development_.
 - **Taylor, L.** & Dencik, L (2020). [Constructing Commercial Data Ethics](https://doi.org/10.26116/techreg.2020.001). _Technology and Regulation_, 1-10. 
-- **Taylor, L.** & Meissner, F. (2020). [A Crisis of Opportunity: Market‐making, big data, and the consolidation of migration as risk](https://doi.org/10.1111/anti.12583). _Antipode_, 52(1), 270-290.
+- **Taylor, L.** & Meissner, F. (2020). [A Crisis of Opportunity: Market-making, big data, and the consolidation of migration as risk](https://doi.org/10.1111/anti.12583). _Antipode_, 52(1), 270-290.
 - **Taylor, L.** & Purtova, N. (2019). [What is Responsible and Sustainable Data Science?](https://doi.org/10.1177%2F2053951719858114). _Big Data & Society_, July–December 2019: 1–6.
 - **Taylor, L.** (2019). [Global Data Justice](https://doi.org/10.1145/3325279). _Communications of the ACM_, 62(6), 22-24.
 - **Jameson, S.**, Richter, C. & **Taylor, L.** (2019). [People’s strategies for perceived surveillance in Amsterdam Smart City](https://doi.org/10.1080/02723638.2019.1614369). _Urban Geography_, 40(10), 1467-1484.
