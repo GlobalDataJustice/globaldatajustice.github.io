@@ -9,8 +9,10 @@ subtitle:
 - On Tuesday, February 18, we will organize an [academic event](https://twitter.com/empo11on/status/1227899163691692032) at the [Centre for Intellectual Property and Information Technology Law](http://cipit.org/) at the Strathmore University
 
 ### Past Participation
+- Mukiri-Smith, H. (2019, September). _Statelessness and Digital Identity Systems: Experiences from fieldwork in Kenya on the Implementation of the Huduma Namba Platform or the National Integrated Identity Management System_. Presentation made at The Institute on Statelessness and Inclusion, Tilburg Law School, Netherlands.
 -	Taylor, L. (2019, July). _Why Is Only Some AI “Good”?_ Talk given at the Digital Ethics Lab Workshop — AI for Social Good: Promise and Pitfalls,  Exeter College, Oxford, UK.
 - Martin, A. (2019, June). _Ethics and Governance in Humanitarian Data Partnerships_. Sessions moderated at the Data Responsibility Exchange, The Hague, Netherlands.
+- Taylor, L. & Mukiri-Smith, H. (June 2019). _Data Justice Research Globally and in Kenya_. Presentation made before the Communications, Information & Innovation Parliamentary Committee, National Assembly of the Republic of Kenya.
 - Martin, A. (2019, June). _Digital Identity for Refugees and Privacy and Data Protection_. Panel chaired at the Global Virtual Summit on Digital Identity for Refugees: Concluding Workshop, Ottawa, Canada.
 - Martin, A. (2019, June). _When Identification Becomes a Barrier_. Paper presented at the Global Virtual Summit on Digital Identity for Refugees: Concluding Workshop, Ottawa, Canada.
 - Martin, A. (2019, June). _Humanitarian Ethics_. Presentation at the Workshop on Connectivity as Aid and Data Protection in Humanitarian Action, Geneva, Switzerland.
