@@ -6,9 +6,9 @@ subtitle:
 
 ### Highlights:
 - We recently completed convening a [series of expert disussions on regulation, ethics, and accountability in humanitarian data partnerships](https://globaldatajustice.org/humanitariandatapartnerships) and will be publishing our findings soon
-- In February 2020, we organized a half-day [event](https://twitter.com/empo11on/status/1227899163691692032) with the [Centre for Intellectual Property and Information Technology Law](http://cipit.org/) at the Strathmore University to discuss questions of data-driven exclusion and vulnerability 
-- The Global Data Justice project team organized a panel on navigating essential tensions in researching data Justice for the [Data Power conference](https://www.uni-bremen.de/datapower) in Bremen, Germany in September 2019 
-- We organized a track on Justice and the Data Market as well as a [workshop](https://globaldatajustice.org/workshop/) on the political economy of web tracking at the [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives) in May 2019.
+- In February 2020, we led a half-day [event](https://twitter.com/empo11on/status/1227899163691692032) with the [Centre for Intellectual Property and Information Technology Law](http://cipit.org/) at  Strathmore University to discuss questions of data-driven exclusion and vulnerability 
+- The Global Data Justice project team organized a panel on navigating essential tensions in researching data justice for the [Data Power conference](https://www.uni-bremen.de/datapower) in Bremen, Germany in September 2019 
+- We organized a track on Justice and the Data Market as well as a [workshop](https://globaldatajustice.org/workshop/) on the political economy of web tracking at the [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives) conference in May 2019
 
 ### Past Participation
 - Martin, A. (2020, May). _China's Digital Policy Landscape: An overview_. Guest lecture for the Fundação Getulio Vargas (FGV) Law School in Rio de Janeiro, Brazil.
