@@ -2,8 +2,8 @@
 layout: page
 title: Public Engagement
 ---
-
 We are occasionally interviewed or asked to contribute our ideas to non-academic outlets and initiatives:
+- __28/04/20__: Linnet Taylor was quoted in a [report](https://www.thebureauinvestigates.com/stories/2020-04-28/monitoring-being-pitched-to-fight-covid-19-was-first-tested-on-refugees) by the The Bureau of Investigative Journalism on social media monitoring and other forms of tracking
 - __23/04/20__: Linnet Taylor joined a [panel discussion](https://mooreinstitute.ie/2020/04/24/video-of-the-covid-19-response-webinar-data-ethics-and-the-covid-19-crisis/) hosted by the Moore Institute (National University of Ireland) on data, ethics and the COVID-19 crisis
 - __15/04/20__: Linnet Taylor participated in a [webinar](https://www.adalovelaceinstitute.org/beyond-the-exit-strategy-ethical-uses-of-data-driven-technology-in-the-fight-against-covid-19/) organized by the Ada Lovelace Institute on ethical uses of data-driven technology in the fight against COVID-19 
 - __29/01/20__: Linnet Taylor was quoted extensively in The New Humanitarian's [exposé](https://www.thenewhumanitarian.org/investigation/2020/01/29/united-nations-cyber-attack) on a cyber attack targeting the UN 
