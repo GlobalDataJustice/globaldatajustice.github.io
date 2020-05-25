@@ -13,8 +13,11 @@ subtitle:
 ### Past Participation
 - Martin, A. (2020, May). _China's Digital Policy Landscape: An overview_. Guest lecture for the Fundação Getulio Vargas (FGV) Law School in Rio de Janeiro, Brazil.
 - Taylor, L. (2019, December). _Group Privacy and Data Justice_. Invited talk at the European Data Protection Supervisor, Brussels, Belgium.
+- Martin, A. (2019, December). _Dynamics of Exclusion and Inclusion in Digital Identification:
+Regulatory policy and displaced populations_. Paper presented at the Building Resilient Democracies workshop, Graduate Institute of Geneva, Switzerland.
 - Taylor, L. (2019, December). _Global Data Justice: A social-justice-based approach to governing the data economy_. [Invited talk](https://dhcenter-unil-epfl.com/en/event/global-data-justice-a-social-justice-based-approach-to-governing-the-data-economy/) at the Ecole Polytechnique Federale de Lausanne, Switzerland. 
 - Taylor, L. (2019, November). _Data Justice – The Case for a Social Justice Approach to Data Governance_. [Invited talk](https://lecture2go.uni-hamburg.de/l2go/-/get/v/25455) for the University of Hamburg ‘Taming the Machines’ seminar series, Hamburg, Germany. 
+- Martin, A. (2019, October). _Digital Identity_. Panel moderated at the ICRC workshop on Data Protection in Humanitarian Action, Tokyo, Japan.
 - Mukiri-Smith, H. (2019, September). _Statelessness and Digital Identity Systems: Experiences from fieldwork in Kenya on the Implementation of the Huduma Namba Platform or the National Integrated Identity Management System_. Presentation made at The Institute on Statelessness and Inclusion, Tilburg Law School, Netherlands.
 -	Taylor, L. (2019, July). _Why Is Only Some AI “Good”?_ Talk given at the Digital Ethics Lab Workshop — AI for Social Good: Promise and Pitfalls,  Exeter College, Oxford, UK.
 - Martin, A. (2019, June). _Ethics and Governance in Humanitarian Data Partnerships_. Sessions moderated at the Data Responsibility Exchange, The Hague, Netherlands.
