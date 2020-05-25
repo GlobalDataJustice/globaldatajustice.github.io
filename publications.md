@@ -6,9 +6,9 @@ subtitle: Our research outputs
 
 A sample of relevant research publications from the Global Data Justice team
 
-- **Taylor, L.** (under review). [Public Actors without Public Values: Legitimacy, domination and the regulation of the technology sector](https://osf.io/preprints/socarxiv/gtw2x/). SocArXiv.
-- **Taylor, L.** (2020, forthcoming). Exploitation as Innovation: Research ethics and the governance of experimentation in the urban living lab. Regional Studies.
-- **Martin, A. K.** & **Taylor, L.** (2020, forthcoming). Exclusion and Inclusion in Identification: Regulatory policy, displacement, and data justice. Information Technology for Development.
+- **Taylor, L.** (under review). [Public Actors without Public Values: Legitimacy, domination and the regulation of the technology sector](https://osf.io/preprints/socarxiv/gtw2x/). _SocArXiv_.
+- **Taylor, L.** (2020, forthcoming). Exploitation as Innovation: Research ethics and the governance of experimentation in the urban living lab. _Regional Studies_.
+- **Martin, A. K.** & **Taylor, L.** (2020, forthcoming). Exclusion and Inclusion in Identification: Regulatory policy, displacement, and data justice. _Information Technology for Development_.
 - **Taylor, L.** & Dencik, L (2020). [Constructing Commercial Data Ethics](https://doi.org/10.26116/techreg.2020.001). _Technology and Regulation_, 1-10. 
 - **Taylor, L.** & Meissner, F. (2020). [A Crisis of Opportunity: Market‐making, big data, and the consolidation of migration as risk](https://doi.org/10.1111/anti.12583). _Antipode_, 52(1), 270-290.
 - **Taylor, L.** & Purtova, N. (2019). [What is Responsible and Sustainable Data Science?](https://doi.org/10.1177%2F2053951719858114). _Big Data & Society_, July–December 2019: 1–6.
