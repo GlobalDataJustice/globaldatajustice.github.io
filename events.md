@@ -4,11 +4,17 @@ title: Events
 subtitle:
 ---
 
-### Please join us at an upcoming event:
-- We are convening a [series of disussions on regulation, ethics, and accountability in humanitarian data partnerships](https://globaldatajustice.org/humanitariandatapartnerships) in late 2019/early 2020
-- On Tuesday, February 18, we will organize an [academic event](https://twitter.com/empo11on/status/1227899163691692032) at the [Centre for Intellectual Property and Information Technology Law](http://cipit.org/) at the Strathmore University
+### Highlights:
+- We recently completed convening a [series of expert disussions on regulation, ethics, and accountability in humanitarian data partnerships](https://globaldatajustice.org/humanitariandatapartnerships) and will be publishing our findings soon
+- In February 2020, we organized a half-day [event](https://twitter.com/empo11on/status/1227899163691692032) with the [Centre for Intellectual Property and Information Technology Law](http://cipit.org/) at the Strathmore University to discuss questions of data-driven exclusion and vulnerability 
+- The Global Data Justice project team organized a panel on navigating essential tensions in researching data Justice for the [Data Power conference](https://www.uni-bremen.de/datapower) in Bremen, Germany in September 2019 
+- We organized a track on Justice and the Data Market as well as a [workshop](https://globaldatajustice.org/workshop/) on the political economy of web tracking at the [TILTing Perspectives 2019: Regulating a World in Transition](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/events/tilting-perspectives) in May 2019.
 
 ### Past Participation
+- Martin, A. (2020, May). _China's Digital Policy Landscape: An overview_. Guest lecture for the Fundação Getulio Vargas (FGV) Law School in Rio de Janeiro, Brazil.
+- Taylor, L. (2019, December). _Group Privacy and Data Justice_. Invited talk at the European Data Protection Supervisor, Brussels, Belgium.
+- Taylor, L. (2019, December). _Global Data Justice: A social-justice-based approach to governing the data economy_. [Invited talk](https://dhcenter-unil-epfl.com/en/event/global-data-justice-a-social-justice-based-approach-to-governing-the-data-economy/) at the Ecole Polytechnique Federale de Lausanne, Switzerland. 
+- Taylor, L. (2019, November). _Data Justice – The Case for a Social Justice Approach to Data Governance_. [Invited talk](https://lecture2go.uni-hamburg.de/l2go/-/get/v/25455) for the University of Hamburg ‘Taming the Machines’ seminar series, Hamburg, Germany. 
 - Mukiri-Smith, H. (2019, September). _Statelessness and Digital Identity Systems: Experiences from fieldwork in Kenya on the Implementation of the Huduma Namba Platform or the National Integrated Identity Management System_. Presentation made at The Institute on Statelessness and Inclusion, Tilburg Law School, Netherlands.
 -	Taylor, L. (2019, July). _Why Is Only Some AI “Good”?_ Talk given at the Digital Ethics Lab Workshop — AI for Social Good: Promise and Pitfalls,  Exeter College, Oxford, UK.
 - Martin, A. (2019, June). _Ethics and Governance in Humanitarian Data Partnerships_. Sessions moderated at the Data Responsibility Exchange, The Hague, Netherlands.
