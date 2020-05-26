@@ -12,6 +12,7 @@ subtitle:
 
 ### Past Participation
 - Martin, A. (2020, May). _China's Digital Policy Landscape: An overview_. Guest lecture for the Fundação Getulio Vargas (FGV) Law School in Rio de Janeiro, Brazil.
+- Sharma, G. (2020, February). _The Price of Your Data_. [Panel](https://www.tilburguniversity.edu/campus/academic-forum/price-your-data) at Tilburg University, Netherlands.
 - Taylor, L. (2019, December). _Group Privacy and Data Justice_. Invited talk at the European Data Protection Supervisor, Brussels, Belgium.
 - Martin, A. (2019, December). _Dynamics of Exclusion and Inclusion in Digital Identification:
 Regulatory policy and displaced populations_. Paper presented at the Building Resilient Democracies workshop, Graduate Institute of Geneva, Switzerland.
