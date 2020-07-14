@@ -2,7 +2,7 @@
 layout: post
 title: Privacy International takes action against data brokers
 subtitle: By Tjaša Petročnik
-tags: [data, brokers, PI]
+tags: data, brokers, PI
 ---
 
 [Data brokers](https://globaldatajustice.org/2018-10-29-data-brokers-impakt/), businesses amassing and selling detailed profiles of individuals, can have a profound impact on our daily lives, without us even knowing of existence of such practices that fuel the personal data economy.
