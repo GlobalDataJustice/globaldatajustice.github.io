@@ -2,7 +2,7 @@
 layout: post
 title: Humanitarian Technology and Digital Dignity
 subtitle: By Aaron Martin
-tags: humanitarian, data, biometrics, digital, dignity
+tags: [humanitarian, data, biometrics, digital, dignity]
 ---
 
 This week I had the privilege of participating in a Wilton Park conference on [digital dignity in armed conflict](https://www.wiltonpark.org.uk/event/wp1698/) organized by the International Committee of the Red Cross in association with the Swiss Federal Department of Foreign Affairs and Norwegian Ministry of Foreign Affairs. The discussions (held under Chatham House Rule, thus no attribution in what follows) were focused around how humanitarian actors can strengthen the dignity of people affected by crisis in contexts in which digital technologies are increasingly being used to facilitate the provision of aid. This topic is near and dear to the Global Data Justice project, particularly our ongoing case study on what might constitute just governance of humanitarian data. While I am still processing three days of intense discussions, I would like to provide some immediate reflections on the conversations that took place at [Wiston House](https://www.wiltonpark.org.uk/about-us/wiston-house/).
