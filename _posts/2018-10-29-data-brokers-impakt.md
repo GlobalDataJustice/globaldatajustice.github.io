@@ -2,7 +2,7 @@
 layout: post
 title: How Data Brokers Exert Control Over Our Lives From The Shadows
 subtitle: By Tjaša Petročnik
-tags: data brokers 
+tags: [data, brokers]
 ---
 
 On 25 October 2018, members of the Global Data Justice team attended a workshop on data brokers held by [Tech Solidarity NL](https://techsolidarity.nl/), a grassroots community of Dutch tech workers that advocate for designing and developing a more responsible, just, and egalitarian technology. The meeting took place in the context of the [IMPAKT Festival in Utrecht](http://impakt.nl/festival/), dedicated to exploring how social reality is shaped by technological structures and opaque operating systems. This turned out to be the perfect backdrop against which to discuss data brokers and their business models.
