@@ -2,7 +2,7 @@
 layout: post
 title: Our New Web Tracking Project
 subtitle: By The GDJ Team
-tags: data, brokers, tracking
+tags: [data, brokers, tracking]
 ---
 
 We’re doing some web tracking research. We’ll be writing a bit over the coming months about why this is important, but here’s the gist of it: we live inside a gigantic, worldwide data market where details of everyone’s online behaviour are sold and traded every second, but we don’t really know much about who’s trading them or what gets made available. We plan to shine a light on this, in a way that can tell us how that market focuses its attention (or not) on particular places, and how that changes over time.
