@@ -2,7 +2,7 @@
 layout: post
 title: How are Different Publics Constructed through Datafication of Health and Public Opinion Studies?
 subtitle: By Lea Skovgaard
-tags: publics, health, datafication
+tags: [publics, health, datafication]
 ---
 
 **Since Walter Lippmann’s famous denunciation of The Public as a phantom figure in 1927, references to ‘public opinion’ have given rise to questions about who can represent what to whom. Today, more than 90 years later, these questions continue to be relevant, and ongoing datafication of health has added further dimensions. The datafication itself construes particular publics and silences others but researchers continue to rely on these measures of datafication to study populations as well as to create room for action. Here I present some reflections on how I engage with this challenge in a new study of public legitimacy of Personalised Medicine in Denmark**.
