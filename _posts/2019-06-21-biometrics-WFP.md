@@ -2,7 +2,7 @@
 layout: post
 title: Biometric Ultimata — what the Yemen conflict can tell us about the politics of digital ID systems
 subtitle: By Aaron Martin and Linnet Taylor
-tags: [humanitarian, data, ID, biometrics, WFP]
+tags: humanitarian, data, ID, biometrics, WFP
 ---
 As part of our research on the Global Data Justice project, we are investigating how actors in the humanitarian sector are embracing new technologies and how digital innovation is changing humanitarian values. It is an exciting time for the sector as it incorporates new technologies into its operations, including [drones](https://insight.wfp.org/drones-5-reasons-why-the-world-food-programme-is-using-them-20ca47e73b56), [advanced data analytics](https://globaldatajustice.org/2019-02-06-WFP-palantir/), and [biometrics](https://www.theengineroom.org/biometrics-in-the-humanitarian-sector/), among other innovations. But the use of technology is neither straightforward nor apolitical, and it is important that we understand how the datafication of aid might disrupt the humanitarian cause in unexpected ways.
 
