@@ -2,7 +2,7 @@
 layout: post
 title: Social Media for Public Service Delivery in Kenya
 subtitle: By Hellen Mukiri-Smith
-tags: [kenya, e-government]
+tags: kenya, e-government
 ---
 
 Kenyans use social media to access news, express their opinions on national issues, have private conversations, and for marketing and business purposes. Social media has become ["one of the most active platforms for communication and networking in Kenya"](https://hapakenya.com/2014/10/13/number-of-social-media-users-in-kenya). The power of social media became personally evident to me while I was in Nairobi for an initial pilot fieldwork visit for the Global Data Justice project, when I attempted to apply for my [new Kenyan electronic passport](https://www.nation.co.ke/news/passport-Kenya-2019/1056-4078232-yse667/index.html). I ended up having to use Facebook to access the Government’s E-Citizen customer service centre, in order to have a log-in problem with the E-Citizen portal resolved so that I could apply for a passport.
@@ -25,6 +25,3 @@ I decided that I would try to contact the E-Citizen Department through Facebook 
 1. What concerns should we all be aware of while submitting personal information such as our ID Numbers via social media? There have been [reports](http://social.techcrunch.com/2018/09/29/facebook-is-weaponizing-security-to-erode-privacy/) that Facebook reads direct messages sent via Facebook Messenger. Who has access to my ID Number on the back-end, Facebook or otherwise, and what can they do with it? These questions are worth considering because a Kenyan ID Number contains ‘all your information’. It reveals, or can be used to access, among other information, someone’s date of birth, gender, district of birth, where one lives (district, location and sub-location) and biometrics.
 2. How people without technology and internet connectivity access government services offered on the E-Citizen portal?
 3. Why government agencies are more inclined to use social media platforms for service delivery?
-
-
-
