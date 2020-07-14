@@ -2,7 +2,7 @@
 layout: post
 title: Social Media for Public Service Delivery in Kenya
 subtitle: By Hellen Mukiri-Smith
-tags: kenya, e-government
+tags: [Kenya, e-government]
 ---
 
 Kenyans use social media to access news, express their opinions on national issues, have private conversations, and for marketing and business purposes. Social media has become ["one of the most active platforms for communication and networking in Kenya"](https://hapakenya.com/2014/10/13/number-of-social-media-users-in-kenya). The power of social media became personally evident to me while I was in Nairobi for an initial pilot fieldwork visit for the Global Data Justice project, when I attempted to apply for my [new Kenyan electronic passport](https://www.nation.co.ke/news/passport-Kenya-2019/1056-4078232-yse667/index.html). I ended up having to use Facebook to access the Government’s E-Citizen customer service centre, in order to have a log-in problem with the E-Citizen portal resolved so that I could apply for a passport.
