@@ -2,7 +2,7 @@
 layout: post
 title: Personal Data for Security in Kenya
 subtitle: By Hellen Mukiri-Smith
-tags: Kenya, security, data
+tags: [Kenya, security, data]
 ---
 Even with increased surveillance of populations through use of new technologies, some panoptic features of surveillance remain. In Kenya, physical and spatial surveillance carried out from a single or central point aimed at [‘self-disciplining of watched subjects,’](https://link.springer.com/content/pdf/10.1007%2Fs13347-016-0219-1.pdf) to influence their behaviour, [to make them docile](https://link.springer.com/content/pdf/10.1007%2Fs13347-016-0219-1.pdf), remains very much a reality. This form of surveillance is increasingly combined with collecting personal data at central points within government and private buildings, using both traditional and modern methods of data collection.
 
