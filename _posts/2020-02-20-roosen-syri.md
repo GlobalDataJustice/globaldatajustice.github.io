@@ -2,7 +2,7 @@
 layout: post
 title: What SyRI can teach us about technical solutions for societal challenges
 subtitle: Marijke Roosen
-tags: SyRI, AI, welfare, law
+tags: [SyRI, AI, welfare, law]
 ---
 Influential intellectual Harari [is warning](https://www.theatlantic.com/magazine/archive/2018/10/yuval-noah-harari-technology-tyranny/568330/) that technological revolutions pose unseen challenges to our societies, arguing that these will impact amongst other things our conception of democracy. Technology makes it easier to control and monitor citizens and in doing this consolidate power to the powerful. Algorithms perform better the more you centralize data about individuals, and thus the less you respect their privacy.
 
