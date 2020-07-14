@@ -2,7 +2,7 @@
 layout: post
 title: Extractive Logics as a Systemic Pattern
 subtitle: By Shaz Jameson
-tags: [data doubles, data economy, smart cities]
+tags: data doubles, data economy, smart cities
 ---
 
 Having perspective on the entire extractive logic of a system can be a rather bleak endeavor. At academic panels it happens relatively frequently that after much discussion, somebody will stand up and ask if, actually, when we boil it down, isn’t the main problem just capitalism? While there is good work being done on trying to move from value extraction to value creation by economists like Mariana Mazzucato, we are still faced with a relatively overwhelming political economy. There are very human moments where we seek hope. This is partially why the call for a resurgent civic urbanism is so intuitively attractive and very much needed. However, like good scholars, in seeking to understand the system, we have to weigh up what are the factors which create that system and the logic that enables it.   
