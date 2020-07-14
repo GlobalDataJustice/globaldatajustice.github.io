@@ -2,7 +2,7 @@
 layout: post
 title: Tackling Data Collection Practices in the Digital Economy — An update on the German case against Facebook 
 subtitle: By Tjaša Petročnik 
-tags: Facebook, data, tracking, competition
+tags: [Facebook, data, tracking, competition]
 ---
 Digital traces left behind our internet use offer a detailed insight into our preferences and identity. These data are collected by companies in a manner often invisible to users and the profiles created based on them can be useful to advertisers, to serve us more targeted ads, for example. The questions that these practices raise are normally within the remit of data protection rules. Following the Facebook case in Germany, there is some more clarity whether such pervasive online tracking could also be dealt with, from an enforcement perspective, under the existing competition policy framework, particularly since data and privacy could be seen as factors of competition in the digital economy; for the time being and following from recent developments, it seems the answer is: not really.
 
