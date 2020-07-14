@@ -2,7 +2,7 @@
 layout: post
 title: Data and Justice in 2019 — Who can afford big tech, and who can live without it? 
 subtitle: Linnet Taylor
-tags: EOY, data market, biometrics, ID, Kenya, China, AI, surveillance, refugees
+tags: EOY, data, market, biometrics, ID, Kenya, China, AI, surveillance, refugees
 ---
 2019 has been the year that the data economy went fully global. This was not so much a transformation in terms of connectivity – [nearly half the people in the world]( https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICTOI-2018-SUM-PDF-E.pdf) are not yet internet users, and if you are from a low-income country you probably only have patchy access to 3G if you are lucky. This was a change in the scale and reach of the world’s data infrastructures, to a point where no one is truly invisible any more. You may not be able to reach the connected world, but it can certainly reach you.
 
