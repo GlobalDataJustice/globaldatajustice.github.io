@@ -4,9 +4,8 @@ title: COVID-19 and Data Justice
 subtitle: Global perspectives
 ---
 
-<p align="center">
-  <img src="img/book_cover.jpg" alt="This is not the actual book cover"/>
-</p>
+
+![This is not the actual book cover](/img/book_cover.jpg)
 
 In early 2020, as the COVID-19 pandemic swept the world and states of emergency were declared by one country after another, the global technology sector—already equipped with unprecedented wealth, power, and influence—mobilised to seize the opportunity. Our [new edited collection](https://www.youtube.com/watch?v=oHg5SJYRHA0), published by [Meatspace Press](https://meatspacepress.com/), provides an account of what happened next, capturing the emergent conflicts and responses around the world. The essays provide a global perspective on the implications of these developments for justice: they make it possible to compare how the intersection of state and corporate power—and the way that power is targeted and exercised—confronts, and invites resistance from, civil society in countries worldwide.
 
