@@ -27,6 +27,7 @@ navbar-links:
     - Project Overview: "overview"
     - Publications: "publications"
     - Events: "events"
+  COVID-19: "covid-19"
   Team: "team"
   Blog: "blog"
   Public Engagement: "media"
