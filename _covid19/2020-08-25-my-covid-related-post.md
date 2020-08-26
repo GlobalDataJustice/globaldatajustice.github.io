@@ -4,6 +4,7 @@ title: My Covid-19 post
 subtitle: By Ana
 date: 2020-08-25
 bigimg: https://globaldatajustice.org/img/montage_smwp.png
+image: https://globaldatajustice.org/img/montage_smwp.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin nibh sit amet commodo nulla facilisi. Pharetra et ultrices neque ornare aenean euismod elementum. Bibendum at varius vel pharetra vel turpis nunc eget lorem. Consequat interdum varius sit amet mattis vulputate enim. Ipsum nunc aliquet bibendum enim. Ante in nibh mauris cursus. Integer malesuada nunc vel risus commodo viverra maecenas. Dui sapien eget mi proin. Feugiat vivamus at augue eget arcu dictum varius duis at. Purus in massa tempor nec feugiat nisl pretium fusce. Vitae et leo duis ut diam quam nulla porttitor. Arcu dictum varius duis at consectetur lorem donec massa.
