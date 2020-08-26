@@ -323,7 +323,7 @@ image: /img/montage_smwp.png
 ---
 ```
 
-Currently the permalinks are set as `/covid-19/:name`. To change this, go to line 177 (at the of writing this document) and find the following:
+Currently the permalinks are set as `/covid-19/:name`. To change this, go to line 177 (at the of writing this document) of `_config.yml` and find the following:
 
 ```
 collections:
