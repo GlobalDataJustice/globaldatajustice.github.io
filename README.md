@@ -289,3 +289,47 @@ If you do fork or clone this project to use as a template for your site, I would
 ## Known limitations
 
 - If you have a project page and you want a custom 404 page, you must have a custom domain.  See https://help.github.com/articles/custom-404-pages/.  This means that if you have a regular User Page you can use the 404 page from this theme, but if it's a website for a specific repository, the 404 page will not be used.
+
+
+---
+
+## globaldatajustice.org
+
+### Add a new post to "COVID-19" collection
+
+To add a new post into the COVID-19 collection you must create a .md file (the same process as adding one to the blogs). The frontmatter must have 'date' in YYYY-MM-DD format.
+For example:
+
+```
+---
+layout: post
+title: My Covid-19 post
+subtitle: By Ana
+date: 2020-08-25
+---
+```
+
+To add a background image to the header of the article the frontmatter must have `bigimg` set with the url of a photo. To add a thumbnail that shows in the list of articles, `image` must be added.
+For example:
+
+```
+---
+layout: post
+title: My Covid-19 post
+subtitle: By Ana
+date: 2020-08-25
+bigimg: /img/montage_smwp.png
+image: /img/montage_smwp.png
+---
+```
+
+Currently the permalinks are set as `/covid-19/:name`. To change this, go to line 177 (at the of writing this document) and find the following:
+
+```
+collections:
+  covid19:
+    output: true
+    permalink: /covid-19/:name
+```
+
+Jekyll has a dedicated section to the [possible permalinks](https://jekyllrb.com/docs/permalinks/#collections) that collections can receive.
