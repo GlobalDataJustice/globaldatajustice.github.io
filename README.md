@@ -297,7 +297,7 @@ If you do fork or clone this project to use as a template for your site, I would
 
 ### Add a new post to "COVID-19" collection
 
-To add a new post into the COVID-19 collection you must create a .md file (the same process as adding one to the blogs). The frontmatter must have 'date' in YYYY-MM-DD format.
+To add a new post into the COVID-19 collection you must create a .md file (the same process as adding one to the blogs) in the folder called `_covid19` located at the root of the project. Note: if there are no posts yet, the folder will not exist and will have to be created with `_covid19` as name. The frontmatter must have 'date' in YYYY-MM-DD format.
 For example:
 
 ```
