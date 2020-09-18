@@ -4,7 +4,7 @@ title: Data Justice and COVID-19
 ---
 
 <p align="center">
-  <img src="img/500x13334.jpg" />
+  <img src="/img/500x13334.jpg" />
 </p>
 
 _Image credit: [Tais Sirote Photography](https://taisido.com/)_
