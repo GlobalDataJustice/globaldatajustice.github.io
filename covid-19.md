@@ -4,7 +4,7 @@ title: Data Justice and COVID-19
 ---
 
 <p align="center">
-  <img src="/img/2000x13334.jpg" height=500/>
+  <img src="/img/2000x133311.jpg" width=500/>
 </p>
 
 In early 2020, as the COVID-19 pandemic swept the world and states of emergency were declared by one country after another, the global technology sector—already equipped with unprecedented wealth, power, and influence—mobilised to seize the opportunity.
