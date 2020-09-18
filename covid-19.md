@@ -2,7 +2,10 @@
 layout: page
 title: Data Justice and COVID-19
 ---
-<div style="text-align:center"><img src="img/500x13334.jpg" /></div>
+
+<p align="center">
+  <img src="img/500x13334.jpg" />
+</p>
 
 _Image credit: [Tais Sirote Photography](https://taisido.com/)_
 
