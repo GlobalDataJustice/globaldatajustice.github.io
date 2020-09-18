@@ -2,7 +2,7 @@
 layout: page
 title: Data Justice and COVID-19
 ---
-![Data Justice and COVID-19: Global Perspectives](/img/500x13334.jpg "Data Justice and COVID-19: Global Perspectives")
+<div style="text-align:center"><img src="img/500x13334.jpg" /></div>
 
 _Image credit: [Tais Sirote Photography](https://taisido.com/)_
 
