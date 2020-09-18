@@ -2,7 +2,7 @@
 layout: page
 title: Data Justice and COVID-19
 ---
-![Data Justice and COVID-19: Global Perspectives](/img/montage_smwp.png "Data Justice and COVID-19: Global Perspectives")
+![Data Justice and COVID-19: Global Perspectives](/img/2000x13334.jpg "Data Justice and COVID-19: Global Perspectives")
 
 In early 2020, as the COVID-19 pandemic swept the world and states of emergency were declared by one country after another, the global technology sector—already equipped with unprecedented wealth, power, and influence—mobilised to seize the opportunity.
 
