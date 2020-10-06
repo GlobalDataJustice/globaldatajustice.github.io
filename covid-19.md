@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: covid-19
 title: Data Justice and COVID-19
 ---
 
