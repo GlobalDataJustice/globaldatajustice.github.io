@@ -4,6 +4,7 @@ title: Test run with Gargi
 subtitle: By Aaron
 date: 2020-10-06
 bigimg: /img/posts_usa.png
+image: /img/posts_usa.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum vestibulum mauris, id hendrerit tellus pulvinar nec. Sed vulputate, arcu quis sagittis consectetur, magna nisl ultrices ex, eget pellentesque leo risus in ipsum. Nunc cursus risus id lectus rhoncus rhoncus. In ut lorem id sem faucibus semper. Nunc ac mollis velit. Proin quis turpis nisl. Ut finibus accumsan velit, non dignissim nisi vestibulum non. Nullam aliquet eget tellus non placerat. Vivamus euismod ultricies varius. Mauris odio mauris, blandit in nibh ut, luctus interdum leo. Integer dui metus, dapibus vitae lacus vitae, auctor aliquet justo. Nam gravida imperdiet nunc in congue. Curabitur tincidunt nisl vitae efficitur pharetra.
