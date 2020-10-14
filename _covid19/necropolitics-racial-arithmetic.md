@@ -38,4 +38,3 @@ _[Rashida Richardson](https://www.rashidarichardson.com/) is a Visiting Scholar 
 
 ***
 _Suggested citation_: Richardson, R. (2020, October 8). Government Data Practices as Necropolitics and Racial Arithmetic. _Data and Pandemic Politics_, 1. https://doi.org/10.26116/datajustice-covid-19.001
-***
