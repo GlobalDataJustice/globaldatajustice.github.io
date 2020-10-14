@@ -36,4 +36,4 @@ _[Rashida Richardson](https://www.rashidarichardson.com/) is a Visiting Scholar 
 
 <sup>1</sup> <small>Excess deaths refers to the difference between the numbers of deaths observed in Black and other minority populations and the number that would have been expected if these populations had the same age- and sex- specific death rates as the white population. [The concept](https://www.cdc.gov/mmwr/preview/mmwrhtml/00000688.htm) was used to evaluate and characterize racial health disparities in the 1985 United State Department of Health and Human Services Task Force on Black and Minority Health Report, commonly known as “[The Heckler Report](https://minorityhealth.hhs.gov/assets/pdf/checked/1/ANDERSON.pdf)”.</small>
 
-> _Suggested citation_: Richardson, R. (2020, October 8). Government Data Practices as Necropolitics and Racial Arithmetic. _Data and Pandemic Politics_, 1. https://doi.org/10.26116/datajustice-covid-19.001
+> Suggested citation: Richardson, R. (2020, October 8). Government Data Practices as Necropolitics and Racial Arithmetic. _Data and Pandemic Politics_, 1. https://doi.org/10.26116/datajustice-covid-19.001
