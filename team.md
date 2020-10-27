@@ -25,7 +25,7 @@ Shaz is a social science researcher specializing in digital governance and smart
 
 ### Gargi Sharma
 
-Gargi is a project researcher and policy officer in the Global Data Justice project at TILT. This position is funded by the [Luminate Foundation] (https://luminategroup.com/) to curate and amplify the project's policy-relevant findings. She also specializes in data governance in humanitarian and development contexts. Her current [project](https://globaldatajustice.org/humanitariandatapartnerships/) involves research on the increased prevalence of data partnerships in the humanitarian sector, addressing questions of regulation, ethics, and accountability. Prior to joining TILT, she was a legal consultant to the Government of Chhattisgarh in India and a legal intern at Greenpeace International. She has an Advanced LLM in European and International Human Rights Law from Leiden University.
+Gargi is a researcher and policy officer in the Global Data Justice project at TILT. This position is funded by the [Luminate Foundation] (https://luminategroup.com/) to curate and amplify the project's policy-relevant findings. She specializes in data governance in humanitarian and development contexts and is working on a [project](https://globaldatajustice.org/humanitariandatapartnerships/) involving research on the increased prevalence of data partnerships in the humanitarian sector, which addresses questions of regulation, ethics, and accountability. Prior to joining TILT, she was a legal consultant to the Government of Chhattisgarh in India and a legal intern at Greenpeace International. She has an Advanced LLM in European and International Human Rights Law from Leiden University.
 
 ## Project Associates
 
