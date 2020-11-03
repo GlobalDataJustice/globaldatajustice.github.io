@@ -4,7 +4,7 @@ title: Government Data Practices as Necropolitics and Racial Arithmetic
 subtitle: By Rashida Richardson
 date: 2020-10-08
 bigimg: /img/posts_usa.png
-image: /img/posts_usa.png
+thumb_image: /img/posts_usa.png
 ---
 
 Essay #1 in the **_Data and Pandemic Politics_** series on data justice and COVID-19
