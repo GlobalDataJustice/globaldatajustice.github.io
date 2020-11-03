@@ -309,7 +309,7 @@ date: 2020-08-25
 ---
 ```
 
-To add a background image to the header of the article the frontmatter must have `bigimg` set with the url of a photo. To add a thumbnail that shows in the list of articles, `image` must be added.
+To add a background image to the header of the article the frontmatter must have `bigimg` set with the url of a photo. To add a thumbnail that shows in the list of articles, `thumb_image` must be added.
 For example:
 
 ```
@@ -319,7 +319,7 @@ title: My Covid-19 post
 subtitle: By Ana
 date: 2020-08-25
 bigimg: /img/montage_smwp.png
-image: /img/montage_smwp.png
+thumb_image: /img/montage_smwp.png
 ---
 ```
 
