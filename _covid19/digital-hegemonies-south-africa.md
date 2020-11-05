@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Hegemonies for COVID-19: Contact Tracing in South Africa
+title: Digital Hegemonies for COVID-19
 subtitle: By Gabriella Razzano
 date: 2020-11-05
 bigimg: /img/posts_uganda.png
