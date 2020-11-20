@@ -39,4 +39,5 @@ It is in light of the book’s contribution that the open problems highlighted h
 
 _Silvia Masiero is an Associate Professor of Information Systems at the University of Oslo, Department of Informatics. Her research focuses on the use of Information and Communication Technologies (ICTs) in the field of socio-economic development. She studies the multiple forms of embeddedness of the IT artefact in development policy and governance, with a specific interest in its participation in the politics of anti-poverty programmes._
 
+***
 _Suggested citation_: Masiero, S. (2020, November 20). Mapping Emerging Data Justice Challenges. Data and Pandemic Politics, 3. https://doi.org/10.26116/datajustice-covid-19.003
