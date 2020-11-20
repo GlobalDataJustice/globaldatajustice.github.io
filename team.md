@@ -21,7 +21,11 @@ Hellen is a PhD Researcher on the Global Data Justice project. Her research int
 
 ### Shazade Jameson
 
-Shaz is a social science researcher specializing in digital governance and smart urbanism, and a PhD Researcher on the Global Data Justice project. Her background spans international development studies, human geography, urban sustainability, and cognitive psychology. She is interested in how we can have a more inclusive global conversation around data governance in the context of economic growth. In particular, her research investigates the implications of data innovation in public sector governance of smart cities. What does it mean to move towards a digital society? Currently, she is thinking about the how uncertainty and adaptation are dealt with in experimental approaches to urban development, and how data-driven decision-making reshapes our relationship to the risk society. 
+Shaz is a social science researcher specializing in digital governance and smart urbanism, and a PhD Researcher on the Global Data Justice project. Her background spans international development studies, human geography, urban sustainability, and cognitive psychology. She is interested in how we can have a more inclusive global conversation around data governance in the context of economic growth. In particular, her research investigates the implications of data innovation in public sector governance of smart cities. What does it mean to move towards a digital society? Currently, she is thinking about the how uncertainty and adaptation are dealt with in experimental approaches to urban development, and how data-driven decision-making reshapes our relationship to the risk society.
+
+### Siddharth Peter de Souza
+
+Siddharth is a postdoctoral researcher  at the Global Data Justice project and is  interested in the role data plays at the intersection of law and development. Prior to joining TILT he was a PhD researcher at Humboldt University Berlin, and has studied law at the University of Cambridge and at the University of Delhi. He previously worked as a German Chancellor Fellow at the Max Planck Foundation for International Peace and Rule of Law, Heidelberg and as a Judicial Clerk at the High Court of Delhi. Siddharth is the founder of [Justice Adda](http://www.justiceadda.com/), a legal design social venture in India, and a researcher at FemLab.Co.
 
 ### Gargi Sharma
 
