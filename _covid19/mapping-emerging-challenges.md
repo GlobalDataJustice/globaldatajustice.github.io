@@ -37,7 +37,7 @@ As Sean McDonald notes in his [commentary](https://archive.org/download/data-jus
 
 It is in light of the book’s contribution that the open problems highlighted here call for research in a global context affected by the impacts of COVID-19. This mapping is stylised, and more nuances exist in the histories of the peoples and countries facing the global emergency. Still, as hybrid architectures of data governance diffuse worldwide in response to the pandemic, the themes proposed here may offer research directions to further develop a data justice agenda at this critical time.
 
-_Silvia Masiero is an Associate Professor of Information Systems at the University of Oslo, Department of Informatics. Her research focuses on the use of Information and Communication Technologies (ICTs) in the field of socio-economic development. She studies the multiple forms of embeddedness of the IT artefact in development policy and governance, with a specific interest in its participation in the politics of anti-poverty programmes._
+_Silvia Masiero is an Associate Professor of Information Systems at the University of Oslo, Department of Informatics. Her research focuses on the use of Information and Communication Technologies (ICTs) in the field of socio-economic development. She studies the multiple forms of embeddedness of the ICT artefact in development policy and governance, with a specific interest in its participation in the politics of anti-poverty programmes._
 
 ***
 _Suggested citation_: Masiero, S. (2020, November 20). Mapping Emerging Data Justice Challenges. Data and Pandemic Politics, 3. https://doi.org/10.26116/datajustice-covid-19.003
