@@ -2,7 +2,7 @@
 layout: post
 title: Mapping Emerging Data Justice Challenges
 subtitle: By Silvia Masiero
-date: 2020-11-05
+date: 2020-11-20
 bigimg: /img/posts_australia.png
 thumb_image: /img/posts_australia.png
 ---
