@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pandemia, tecnología y trabajo
+title: Pandemia, Tecnología y Trabajo
 subtitle: By Claudio Celis Bueno
 date: 2020-12-01
 bigimg: /img/posts_kenya.png
@@ -9,7 +9,9 @@ thumb_image: /img/posts_kenya.png
 
 Essay #4 in the **_Data and Pandemic Politics_** series on data justice and COVID-19
 
-_Editors’ Note: The pandemic’s effects have differed along the lines of income level, gender, race and ethnicity, and access to opportunity, among many other divides. In this post, Claudio Celis Bueno uses the framing of labour and capital to ask us to consider how technology in the pandemic both reproduces and intensifies established forms of exploitation, and how unregulated practices in the technology economy lead to unsustainable ways of employing labour on the part of both firms and households. The editors would like to thank Rafael Evangelista and Rodrigo Jose Firmino of the [Latin American Network of Surveillance, Technology and Society Studies (LAVITS)](https://lavits.org/a-lavits/?lang=en) for curating essays from Latin America and [Brenda Espinosa Apráez](https://twitter.com/espinosaapraez) of the Tilburg Law School for reviewing and co-editing the Spanish language version. Translation into the English language by Linnet Taylor._
+_Editors’ Note: The pandemic’s effects have differed along the lines of income level, gender, race and ethnicity, and access to opportunity, among many other divides. In this post, Claudio Celis Bueno uses the framing of labour and capital to ask us to consider how technology in the pandemic both reproduces and intensifies established forms of exploitation, and how unregulated practices in the technology economy lead to unsustainable ways of employing labour on the part of both firms and households.
+
+The editors would like to thank Rafael Evangelista and Rodrigo Jose Firmino of the [Latin American Network of Surveillance, Technology and Society Studies (LAVITS)](https://lavits.org/a-lavits/?lang=en) for curating essays from Latin America and [Brenda Espinosa Apráez](https://twitter.com/espinosaapraez) of the Tilburg Law School for reviewing and co-editing the Spanish language version. Translation into the English language by Linnet Taylor._
 
 _**English translation follows Spanish text.**_
 
