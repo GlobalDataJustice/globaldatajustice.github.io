@@ -3,8 +3,8 @@ layout: post
 title: Pandemia, tecnología y trabajo
 subtitle: By Claudio Celis Bueno
 date: 2020-12-01
-bigimg: /img/posts_uganda.png
-thumb_image: /img/posts_uganda.png
+bigimg: /img/posts_kenya.png
+thumb_image: /img/posts_kenya.png
 ---
 
 Essay #4 in the **_Data and Pandemic Politics_** series on data justice and COVID-19
