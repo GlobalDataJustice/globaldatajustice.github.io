@@ -49,6 +49,9 @@ En estos tres ejemplos, la reflexión sobre las consecuencias sociales de la pan
 
 _Claudio Celis Bueno es académico del Instituto de Humanidades de la Universidad Academia de Humanismo Cristiano (Chile). Es Doctor en Teoría Crítica de la Universidad de Cardiff (Reino Unido). Ha realizado investigaciones postdoctorales en Chile y el Reino Unido sobre la relación entre tecnología, medios y sociedad. Es autor del libro The Attention Economy: Labour, Time and Power in Cognitive Capitalism._
 
+***
+_Suggested citation_: Celis Bueno, C. (2020, December 1). Pandemia, tecnología y trabajo. Data and Pandemic Politics, 4. https://doi.org/10.26116/datajustice-covid-19.004
+
 ----
 
 ### The pandemic, technology and work
@@ -87,4 +90,7 @@ However, in contrast to the liberal ideological discourse, it is possible to rea
 
 In these three examples, reflections on the social consequences of the COVID-19 pandemic in Chile cannot be divorced from deeper and broader considerations of the conflict between capital and labour in contemporary society. Moreover, we have to consider the role digital technologies are playing at the heart of this conflict. This implies thinking not only of the forms in which these technologies are being used by capital (and bringing with them the effect of precarisation of life), but also of the spaces which could function as a tool for disruption and political contestation.
 
-_Claudio Celis Bueno is an academic at the Institute of Humanities of the Academia de Humanismo Cristiano University (Chile). He is a Doctor in Critical Theory from Cardiff University (UK). He has conducted postdoctoral research in Chile and the United Kingdom on the relationship between technology, media and society. He is the author of The Attention Economy: Labor, Time and Power in Cognitive Capitalism._
+_Claudio Celis Bueno is an academic at the Institute of Humanities of the Academia de Humanismo Cristiano University (Chile). He is a Doctor of Critical Theory (Cardiff University, UK). He has conducted postdoctoral research in Chile and the United Kingdom on the relationship between technology, media and society. He is the author of_ The Attention Economy: Labor, Time and Power in Cognitive Capitalism.
+
+***
+_Suggested citation_: Celis Bueno, C. (2020, December 1). Pandemia, tecnología y trabajo. Data and Pandemic Politics, 4. https://doi.org/10.26116/datajustice-covid-19.004
