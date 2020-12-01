@@ -49,9 +49,6 @@ En estos tres ejemplos, la reflexión sobre las consecuencias sociales de la pan
 
 _Claudio Celis Bueno es académico del Instituto de Humanidades de la Universidad Academia de Humanismo Cristiano (Chile). Es Doctor en Teoría Crítica de la Universidad de Cardiff (Reino Unido). Ha realizado investigaciones postdoctorales en Chile y el Reino Unido sobre la relación entre tecnología, medios y sociedad. Es autor del libro The Attention Economy: Labour, Time and Power in Cognitive Capitalism._
 
-***
-_Suggested citation_: Celis Bueno, C. (2020, December 1). Pandemia, tecnología y trabajo. Data and Pandemic Politics, 4. https://doi.org/10.26116/datajustice-covid-19.004
-
 ----
 
 ### The pandemic, technology and work
