@@ -2,7 +2,7 @@
 layout: post
 title: Negligencia, La Inminente Amenaza a Nuestra Privacidad 
 subtitle: By Beatriz Busaniche
-date: 2020-12-01
+date: 2020-12-17
 bigimg: /img/posts_korea.png
 thumb_image: /img/posts_korea.png
 ---
