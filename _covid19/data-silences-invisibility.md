@@ -7,7 +7,7 @@ bigimg: /img/posts_ghana.png
 thumb_image: /img/posts_ghana.png
 ---
 
-Essay #5 in the **_Data and Pandemic Politics_** series on data justice and COVID-19
+Essay #6 in the **_Data and Pandemic Politics_** series on data justice and COVID-19
 
 When the Government of India announced a lockdown in March 2020 in an attempt to manage the COVID-19 outbreak, it precipitated a large-scale [exodus of workers](https://www.theguardian.com/world/2020/mar/30/india-wracked-by-greatest-exodus-since-partition-due-to-coronavirus) from cities to villages. With the closure of factories, construction sites, restaurants, hotels and other workplaces, millions of migrant workers who had moved to cities in search of work had to make their way to their villages because of the loss of work, income, food, and shelter. With no transportation to get back home due to the cancellation of buses and trains, one of the most distressing images of the lockdown was of millions of workers [walking home](https://scroll.in/article/963641/a-story-of-swollen-feet-the-physical-toll-of-walking-home-during-lockdown) for thousands of kilometres. Many [vowed not](https://scroll.in/article/963251/i-will-never-come-back-many-indian-migrant-workers-refuse-to-return-to-cities-post-lockdown) to return to the cities after being abandoned by their employers and offered no security.
 
