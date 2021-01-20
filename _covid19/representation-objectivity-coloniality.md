@@ -12,7 +12,7 @@ _Editors’ Note: Fernanda Carrera examines how the illusion of scientific objec
 
 _The editors would like to thank Rafael Evangelista and Rodrigo Jose Firmino of the [Latin American Network of Surveillance, Technology and Society Studies (LAVITS)](https://lavits.org/a-lavits/?lang=en) for curating essays from Latin America. Translation into the English language by Aaron Martin and Linnet Taylor._
 
-_<strong>English translation follows Spanish text.</strong>_
+_<strong>English translation follows Portuguese text.</strong>_
 
 Do ponto de vista comunicacional, um dos efeitos fundamentais da pandemia de COVID-19 se deu no plano das tensões entre “[políticas de representação](https://www.ufrb.edu.br/ppgcom/images/HALL_Cultura_e_Representa%C3%A7%C3%A3o_-_2016.pdf)”. Discursos e materialidades pautados pela ficção da objetividade, como aqueles que envolvem o campo jornalístico, científico e tecnológico, foram desnudados em uma revelação dos seus processos subjetivos, assimétricos e problemáticos de construção de sentidos. A crise, portanto, não somente expôs as desigualdades, como questionou os aparatos culturais que definem regimes representacionais e controlam os modos de ver e ser visto.
 
