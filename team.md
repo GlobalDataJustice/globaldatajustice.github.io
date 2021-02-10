@@ -33,7 +33,7 @@ Gargi is a researcher and policy officer in the Global Data Justice project at T
 
 ### Ana-Maria Hriscu
 
-Ana is a junior researcher in the Global Data Justice project. She is interested in the challenges that data-driven technologies pose for privacy and data protection law, as well as for our understanding of what is fair and just treatment of individuals. Prior to joining the project, she obtained a BA in Comparative & English Literature from the University of Kent in the UK, an LLB in Global Law, and an LLM in Law and Technology from Tilburg University.
+Ana is a junior researcher in the Global Data Justice project. she contributes to the _Sphere transitions and transgressions during COVID-19: Challenging the tech sector's power grab in Europe_, funded by the [European Artificial Intelligence Fund](https://europeanaifund.org/tech-and-covid-19-grant/). She is interested in the challenges that data-driven technologies pose for privacy and data protection law, as well as for our understanding of what is fair and just treatment of individuals. Prior to joining the project, she obtained a BA in Comparative & English Literature from the University of Kent in the UK, an LLB in Global Law, and an LLM in Law and Technology from Tilburg University.
 
 ## Project Associates
 
