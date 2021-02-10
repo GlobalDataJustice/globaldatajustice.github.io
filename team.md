@@ -31,6 +31,10 @@ Shaz is a social science researcher specializing in digital governance and smart
 
 Gargi is a researcher and policy officer in the Global Data Justice project at TILT. This position is funded by the [Luminate Foundation](https://luminategroup.com/) to curate and amplify the project's policy-relevant findings. She specializes in data governance in humanitarian and development contexts and is working on a [project](https://globaldatajustice.org/humanitariandatapartnerships/) involving research on the increased prevalence of data partnerships in the humanitarian sector, which addresses questions of regulation, ethics, and accountability. Prior to joining TILT, she was a legal consultant to the Government of Chhattisgarh in India and a legal intern at Greenpeace International. She has an Advanced LLM in European and International Human Rights Law from Leiden University.
 
+### Ana-Maria Hriscu
+
+Ana is a junior researcher on the Global Data Justice project. She is interested in the challenges that data-driven technologies pose for privacy and data protection law, as well as for our understanding of what is fair and just treatment of individuals. Prior to joining the project, she obtained a BA in Comparative & English Literature from the University of Kent in the UK, an LLB in Global Law, and an LLM in Law and Technology from Tilburg University.
+
 ## Project Associates
 
 ### Kevin P. Donovan
