@@ -24,7 +24,9 @@ Llamó la atención, entonces, la publicación de un tweet en la cuenta oficial 
 
 La imagen a continuación muestra una mano que parecería de una mujer, el texto hace un llamado sobre el cuidado de la imagen y advierte sobre la condición perenne que adquieren los materiales subidos a la red. El mensaje está firmado por la Secretaría contra la violencia sexual del gobierno de Guatemala y no conduce a ningún enlace que sirva para ampliar la información.
 
+/img/Guatemala_scr.png
 Imagen 1: Captura de pantalla: Twitter oficial gobierno de Guatemala (23/11/2020).
+
 La publicación no señala exactamente qué tipo de imágenes estarían en peligro. Pareciera indicar la idea de que es responsabilidad (y culpa) de las usuarias de internet lo que sucede con la circulación de imágenes suyas. Coloca así la responsabilidad en la potencial víctima. Tampoco indica en dónde y cómo buscar mas información que enseñe y explique qué hacer al respecto.
 
 Una vez ingresamos al sitio web de dicha Secretaría nos encontramos con una sección llamada “#NoMásViolenciaSexual” dedicada a establecer una tipología de los diferentes modos de violencia sexual con la explicitación de la cantidad de años de prisión que le correspondería a cada agresor.
@@ -92,7 +94,7 @@ This meant that a tweet published by the official government Twitter account in 
 
 The image below shows a hand, seemingly a woman's, and the text calls for careful sharing of images and warns of the permanent nature of anything shared online. The message is signed by Guatemala’s secretariat for combating sexual violence, but does not lead to any link that serves to expand the information.
 
-
+/img/Guatemala_scr.png
 Image 1: Screenshot: Official Twitter of the government of Guatemala (11/23/2020).
 
 The post does not specify exactly what kinds of images pose risks. It implies that internet users bear the responsibility (and blame) for the ways in which their images get shared. Thus it places the responsibility on the potential victim. Nor does it indicate where and how to find more information to teach and explain what to do about it.
@@ -103,15 +105,11 @@ In a series of videos with a deep voiceover and dark music, different kinds of s
 
 [A video](https://youtu.be/2L79lZ7jGVs) shared on the government’s website and on YouTube, reenacts a case where intimate images were shared without consent. In it, a man approaches a group of young people and without speaking, educates them with a message on his mobile screen that says: "The violation of sexual intimacy is a crime." The idea of ​​a man showing a cell phone and lecturing people in legal language is repeated in the series of videos dedicated to possible online crimes.
 
-***
-
 In Guatemala, the public health crisis was announced by the national government of President Alejandro Giammatei on March 5 with a decree that declared a "state of public calamity" under article 183 of the Constitution of Guatemala due to the Coronavirus (COVID-19). Under the decree, constitutional freedoms, including freedom of movement and the right of peaceful assembly, were suspended. The decree prohibited events of any size, as well as any social, cultural or sporting activity.
 
 With this decree the government also limited the right to free movement, which was restricted for approximately 6 months with a curfew. The decree also authorised the deployment of the army across a country still suffering from the after-effects of a civil war that lasted more than 30 years, and which had seen the massacre of Indigenous Peoples by the military, with the initial complicity and lasting support of [US governments](https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guatemala_de_1954).
 
 For these reasons, we argue that increasing militarism in Guatemala is equivalent to using racism, genocide or sexual violence as a strategy of domination, and of using extermination and brutality as a mode of law enforcement. Furthermore, the presence of a hegemonic military-industrial elite that still governs the country reinforces the denial of the history and memory of the native peoples who still await justice for war crimes and access to land.
-
-***
 
 To understand Guatemalan religion (in broad strokes), we should note that the country has great religious diversity, as shown by the strong presence of evangelical churches and a long Catholic tradition that, despite the many massacres of Indigenous Peoples, has failed to erase Mayan rituals and heritage.
 
