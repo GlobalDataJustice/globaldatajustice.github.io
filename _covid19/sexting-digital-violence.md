@@ -13,7 +13,7 @@ _Editors' Note: In this essay, Goldsman and Montenegro examine the complex right
 
 _The editors would like to thank Rafael Evangelista and Rodrigo Jose Firmino of the [Latin American Network of Surveillance, Technology and Society Studies (LAVITS)](https://lavits.org/a-lavits/?lang=en) for curating essays from Latin America and [Brenda Espinosa Apráez](https://twitter.com/espinosaapraez) of the Tilburg Law School for reviewing and co-editing the Spanish language version. Translation into the English language by Linnet Taylor._
 
-[**English translation follows Spanish text.**](###-“Sexting”-in-Guatemala-—-Non-consensual-sharing-as-digital-violence-in-the-context-of-the-pandemic)
+_**English translation follows Spanish text.**_
 
 #### Introducción y contexto
 Este artículo analiza el estado del debate relacionado con los derechos sexuales en internet, en específico el “_sexting_” (o “sexteo”) en Guatemala y su posible criminalización por parte de agentes del Estado.
