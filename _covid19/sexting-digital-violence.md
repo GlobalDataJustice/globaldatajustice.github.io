@@ -24,7 +24,7 @@ Llamó la atención, entonces, la publicación de un tweet en la cuenta oficial 
 
 La imagen a continuación muestra una mano que parecería de una mujer, el texto hace un llamado sobre el cuidado de la imagen y advierte sobre la condición perenne que adquieren los materiales subidos a la red. El mensaje está firmado por la Secretaría contra la violencia sexual del gobierno de Guatemala y no conduce a ningún enlace que sirva para ampliar la información.
 
-/img/Guatemala_scr.png
+!/img/Guatemala_scr.png
 Imagen 1: Captura de pantalla: Twitter oficial gobierno de Guatemala (23/11/2020).
 
 La publicación no señala exactamente qué tipo de imágenes estarían en peligro. Pareciera indicar la idea de que es responsabilidad (y culpa) de las usuarias de internet lo que sucede con la circulación de imágenes suyas. Coloca así la responsabilidad en la potencial víctima. Tampoco indica en dónde y cómo buscar mas información que enseñe y explique qué hacer al respecto.
@@ -94,7 +94,7 @@ This meant that a tweet published by the official government Twitter account in 
 
 The image below shows a hand, seemingly a woman's, and the text calls for careful sharing of images and warns of the permanent nature of anything shared online. The message is signed by Guatemala’s secretariat for combating sexual violence, but does not lead to any link that serves to expand the information.
 
-/img/Guatemala_scr.png
+!/img/Guatemala_scr.png
 Image 1: Screenshot: Official Twitter of the government of Guatemala (11/23/2020).
 
 The post does not specify exactly what kinds of images pose risks. It implies that internet users bear the responsibility (and blame) for the ways in which their images get shared. Thus it places the responsibility on the potential victim. Nor does it indicate where and how to find more information to teach and explain what to do about it.
