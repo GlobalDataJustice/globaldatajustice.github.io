@@ -24,7 +24,7 @@ Llamó la atención, entonces, la publicación de un tweet en la cuenta oficial 
 
 La imagen a continuación muestra una mano que parecería de una mujer, el texto hace un llamado sobre el cuidado de la imagen y advierte sobre la condición perenne que adquieren los materiales subidos a la red. El mensaje está firmado por la Secretaría contra la violencia sexual del gobierno de Guatemala y no conduce a ningún enlace que sirva para ampliar la información.
 
-!/img/Guatemala_scr.png
+![alt text](globaldatajustice.github.io/img/Guatemala_scr.png)
 Imagen 1: Captura de pantalla: Twitter oficial gobierno de Guatemala (23/11/2020).
 
 La publicación no señala exactamente qué tipo de imágenes estarían en peligro. Pareciera indicar la idea de que es responsabilidad (y culpa) de las usuarias de internet lo que sucede con la circulación de imágenes suyas. Coloca así la responsabilidad en la potencial víctima. Tampoco indica en dónde y cómo buscar mas información que enseñe y explique qué hacer al respecto.
