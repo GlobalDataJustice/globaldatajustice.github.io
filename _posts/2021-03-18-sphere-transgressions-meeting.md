@@ -5,7 +5,7 @@ subtitle: Meeting report, February 24th, 2021
 tags: [technology, data, spheres, EU]
 ---
 
-This meeting was the starting point for a project to be conducted by the Global Data Justice team, based at Tilburg University, NL and funded by the European AI Fund. The purpose of the project is to map, research and report on transitions by technology firms as a result of opportunities and markets created by the pandemic.
+This meeting was the starting point for a [project](https://globaldatajustice.org/sphere-trans/) to be conducted by the Global Data Justice team, based at Tilburg University, NL and funded by the European AI Fund. The purpose of the project is to map, research and report on transitions by technology firms as a result of opportunities and markets created by the pandemic.
 
 We convened a group of civil-society organisations and experts from European countries, as the starting point for a network based on shared interests which we hope to grow during 2021. Participating organisations included the Bureau for Investigative Journalism (UK), the Hermes Center (IT), EDRi (BE), Tactical Tech (DE), Algorithm Watch (DE), Bits of Freedom (NL), APTI (RO), Privacy International (UK), Data4Change (UK), and independent expert Tanya O’Carroll. This report outlines the discussion and starting points for both research and action which emerged from that meeting, but also serves as an invitation to other organisations and researchers to engage with and debate this process.  
 
