@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sector Transitions/ Transgressions
+title: Sphere Transitions / Transgressions
 ---
 The political, social and economic changes during the COVID-19 pandemic are both reflected in, and driven by, commercial technological power. We are watching many companies transition their operations to new domains - one highly visible example of this is Google and Apple’s transition into public health by adding functionality into mobile phone operating systems to enable contact tracing. Philosopher Tamar Sharon analyses this process as [‘sphere transgression’](https://doi.org/10.1007/s10676-020-09547-x): firms establish themselves in one sphere of application, then use the computational infrastructure and insights they gain from it to pivot to other spheres. 
 
