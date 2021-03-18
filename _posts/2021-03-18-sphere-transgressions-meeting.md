@@ -24,7 +24,7 @@ Our central questions are:
 - If not, what new strategies are needed to scrutinise and control it?
 
 ### How is sphere transition/transgression manifesting in the EU currently?
-While the empirical research for the project is currently underway, by way of examples involving both large tech and small tech firms, we can begin to appreciate the scale and severity of sector transgressions.
+While the empirical research for the project is currently underway, by way of examples involving both large tech and small tech firms, we can begin to appreciate the scale and severity of sector transitions/transgressions.
 
 The U.S. company Palantir, founded in the wake of the September 11, 2001 attacks, is known to provide data analytics solutions to the U.S. Department of Homeland Security and Immigrations and Customs Enforcement. In Europe, it provides solutions to the [French security agency (GDIS)](https://www.usinenouvelle.com/article/la-dgsi-renouvelle-son-contrat-avec-l-americain-palantir-faute-de-systeme-100-francais.N908289), and [Europol](https://www.europarl.europa.eu/doceo/document/E-9-2020-000173-ASW_EN.html) uses its Gotham software for its counter-terrorism efforts. In the context of the pandemic, where many believe big data is crucial to managing and containing the spread of the virus, Palantir has pivoted to offering its analytics solutions to the public health sector.
 
