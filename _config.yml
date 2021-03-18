@@ -25,10 +25,10 @@ description: A globally inclusive dialogue about the future of data
 navbar-links:
   Research:
     - Project Overview: "overview"
+    - Sector Transitions/Transgressions: "sector-trans"
     - Publications: "publications"
     - Events: "events"
   COVID-19: "covid-19"
-    - Sector Transitions/Transgressions: "sector-trans"
   Team: "team"
   Blog: "blog"
   Public Engagement: "media"
