@@ -25,7 +25,7 @@ description: A globally inclusive dialogue about the future of data
 navbar-links:
   Research:
     - Project Overview: "overview"
-    - Sector Transitions/ Transgressions: "sector-trans"
+    - Sphere Transitions/ Transgressions: "sphere-trans"
     - Publications: "publications"
     - Events: "events"
   COVID-19: "covid-19"
