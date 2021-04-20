@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fairness and AI governance: responsibility and reality
+title: Fairness and AI governance - responsibility and reality
 subtitle: By Linnet Taylor
 tags: [project]
 ---
