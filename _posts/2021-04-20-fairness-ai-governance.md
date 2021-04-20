@@ -53,16 +53,16 @@ Under these circumstances, conflict and contestation are not a bug but a feature
 ## The political demands AI governance has to (learn to) incorporate:
 The focal points of conflict in AI governance at the moment seem to be the following:
 
-### 1.	High-stakes interventions where challenges to the system are impossible or ineffective
+#### 1.	High-stakes interventions where challenges to the system are impossible or ineffective
 These are cases where either the people affected don’t get the chance to know they are being subjected to automated technological decisionmaking (or decision support, which can amount to the same thing despite being legally separate). They include the application of AI in criminal justice on issues of parole, bail or sentencing, such as the [now-famous case of crime prediction](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) analysed and contested by the ProPublica group; the use of AI to provide ‘evidence’ in [migration and asylum processes](https://www.ibtimes.co.uk/germany-use-speech-recognition-software-trace-origin-refugees-seeking-asylum-1612316), and welfare fraud prediction such as that covered by Virginia Eubanks in her book [Automating Inequality](https://blogs.lse.ac.uk/lsereviewofbooks/2018/07/02/book-review-automating-inequality-how-high-tech-tools-profile-police-and-punish-the-poor-by-virginia-eubanks/).
 
-### 2.	Interventions that contravene scientific evidence
+#### 2.	Interventions that contravene scientific evidence
 We are seeing people protest that some of the research and even deployment of AI is on issues that are completely unsupported by scientific evidence, if not conclusively disproved. An example of the former is predictive policing, which when [subjected to analysis](https://aboutintel.eu/predictive-policing-context/) turns out not to be delivering on its promises but instead to represent group profiling that feeds on and reproduces structural inequality without achieving reductions in crime. Another high-profile example is that of the field broadly known as phrenology: AI-enabled facial, vocal, gait, typing, etc. behaviour recognition used for judging mental states and propensities, e.g. [‘trustworthiness’](https://www.vice.com/en/article/akd4bg/this-app-claims-it-can-detect-trustworthiness-it-cant), [sexual orientation](https://medium.com/pervade-team/the-study-has-been-approved-by-the-irb-gayface-ai-research-hype-and-the-pervasive-data-ethics-ed76171b882c), [criminality](https://fusion.tv/story/371667/facial-features-criminal-research-phrenology/?utm_campaign=realfuture&utm_source=twitter&utm_medium=social), age, place of origin, etcetera etcetera etcetera (and believe me, there is a lot of etcetera out there).
 
-### 3.	Systems that optimise for illegitimate outcomes
+#### 3.	Systems that optimise for illegitimate outcomes
 Algorithmic systems which optimise for polarisation, misinformation or the exploitation of vulnerability can be considered illegitimate in a political sense, and are seeing substantial pushback by groups around the world. These include social media algorithms that optimise for the most extreme views and [channel people into loops of extreme content](https://www.pcmag.com/news/does-youtubes-algorithm-lead-to-radicalization) and practices of [predatory inclusion](https://journals.sagepub.com/doi/full/10.1177/2329496516686620?casa_token=_X2A9KqogW0AAAAA:UuORnE8APnv6S3x-FlZ6AuKcqE5nGG3hzuvlt3w-C3KrYiK1Xq4FSNZb6xFQBvmbqvxzbdFNC8HT) in exploitative finance.
 
-### 4.	Systems and infrastructures that impact negatively on our collective future
+#### 4.	Systems and infrastructures that impact negatively on our collective future
 Here we come to the broader issues: the sustainability of computing infrastructures that use [massive amounts of energy](https://www.sciencedaily.com/releases/2021/03/210310150408.htm); restructuring the labour economy around precarious work; experimenting and demonstrating new technologies on refugees and people in lower-income countries.
 
 ## How can these claims be integrated into governance processes?
