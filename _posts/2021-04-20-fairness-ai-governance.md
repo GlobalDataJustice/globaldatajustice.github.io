@@ -2,7 +2,7 @@
 layout: post
 title: Fairness and AI governance - responsibility and reality
 subtitle: By Linnet Taylor
-tags: [project]
+tags: [governance]
 ---
 
 This essay is about a central and growing problem in AI governance: the gap between what people are experiencing from AI technologies, and regulatory and policy discussions about those technologies. [I gave a talk]( https://www.youtube.com/watch?v=ar_t-DNeYl0&feature=youtu.be&ucbcb=1) at the GOAL project recently (an EU research project on governance of, and by, algorithms) about how the claims of political movements such as Black Lives Matter, MeToo, and organising by gig economy and big tech workers represent core concerns for AI regulation but are not recognised as such.
