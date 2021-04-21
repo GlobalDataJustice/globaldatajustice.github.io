@@ -15,4 +15,4 @@ These examples show the need for a more comprehensive account of the various sph
 
 As part of the project we also aim to engage with experts and stakeholders, such as civil society organisations, both to understand their insights into this phenomenon and to form a network of organisations working on the issues that may arise from it. 
 
-If you or your organisation would like to engage with us on this critical research, please get in touch by emailing me: a.m.hriscu [at] tilburguniversity.edu
+If you or your organisation would like to engage with us on this critical research, please get in touch by emailing info [at] globaldatajustice.org
