@@ -5,9 +5,6 @@ subtitle: By Siddharth Peter de Souza
 tags: [data, spheres, EU, technology]
 ---
 
-
-## Introduction
-
 At the Global Data Justice Project, we are [studying](https://globaldatajustice.org/2021-03-18-sphere-transgressions-meeting/) how technology firms are using their digital infrastructures to enter into new domains and create new markets for their products and services. For example, firms that specialise in security, such as Palantir, moving into public health, or IT firms such as Cisco or Microsoft moving into education. These are areas where such firms do not have previous domain expertise or knowledge but because of their digital capacities, financial resources and data analytics are able to quickly scale up to offer solutions. These moves are leading to fears about whether tech firms with their scale and capacity are crowding out traditional expertise. This has been described by Tamar Sharon as [Sphere Transgressions](https://link.springer.com/article/10.1007/s10676-020-09547-x)  (or Sector Transgressions in our project), where firms use their advantages in one sector to enter and dominate existing players in another. It raises questions about whether regulators have the ability to scrutinise and demand accountability from such firms as they move into new sectors and offer new services, and whether the existing rules are sufficient to evaluate their conduct.
 
 In the project we ask whether there are distinctions between sector transgressions and sector transitions, how we can identify them, and what tools and laws are necessary to regulate them.
@@ -15,7 +12,7 @@ In the project we ask whether there are distinctions between sector transgressio
 In this blog, I look at a recent pandemic power grab, which took place in the football world and led to an extraordinary few days: the creation and subsequent collapse of the [European Super League](https://www.theguardian.com/football/2021/apr/19/explainer-how-will-the-new-european-super-league-work). I see this as an example of a transgression, because it is a move by football clubs from being sporting institutions and businesses to being regulators, and policy makers who would influence the future of football. I examine the rise and fall of the league, and why the responses to this power grab might be an interesting case to identify sector transgressions and think of ways to hold tech firms to account.
 
 
-## European Super League: A very quick rise and fall
+### European Super League: A very quick rise and fall
 
 On 18th April 2021, twelve of the wealthiest European football clubs came together to announce that they would form a new mid-week league called the European Super League. These clubs included six from the United Kingdom — Arsenal, Chelsea, Liverpool, Manchester United, Manchester City and Tottenham Hotspurs, three from Spain — Real Madrid, Barcelona and Atletico Madrid, and three from Italy — Juventus, Inter Milan and AC Milan.
 
@@ -32,7 +29,7 @@ The Super League gave almost no details of how it would promote Women’ s footb
 Remarkably, within a few hours by the end of Tuesday night, all six English clubs announced that they were dropping out of the Super League. Some issued terse statements, but in the following few hours, others put out [grovelling](https://www.theguardian.com/football/2021/apr/21/john-w-henry-apologises-to-liverpool-fans-for-super-league-attempt) apologies. As of writing this piece two further clubs from Italy and Spain have dropped out, and in a matter of 48 hours, a league that took many years of planning and scheming fell apart.
 
 
-## Takeaways for thinking about sector transgressions
+### Takeaways for thinking about sector transgressions
 
 There are a few aspects that are particularly interesting from this episode that can help think about research on sector transgressions. 
 
