@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The collapse of the Super League-  Some takeaways for thinking about sector transgressions by the tech sector
+title: The collapse of the Super League -  some takeaways for thinking about sector transgressions by the tech sector
 subtitle: By Siddharth Peter de Souza
 tags: [data, spheres, EU, technology]
 ---
