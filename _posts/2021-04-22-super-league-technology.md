@@ -2,7 +2,7 @@
 layout: post
 title: The collapse of the Super League -  some takeaways for thinking about sector transgressions by the tech sector
 subtitle: By Siddharth Peter de Souza
-tags: [data, spheres, EU, technology]
+tags: [data, spheres, EU, technology, governance, regulation, communities]
 ---
 
 At the Global Data Justice Project, we are [studying](https://globaldatajustice.org/2021-03-18-sphere-transgressions-meeting/) how technology firms are using their digital infrastructures to enter into new domains and create new markets for their products and services. For example, firms that specialise in security, such as Palantir, moving into public health, or IT firms such as Cisco or Microsoft moving into education. These are areas where such firms do not have previous domain expertise or knowledge but because of their digital capacities, financial resources and data analytics are able to quickly scale up to offer solutions. These moves are leading to fears about whether tech firms with their scale and capacity are crowding out traditional expertise. This has been described by Tamar Sharon as [Sphere Transgressions](https://link.springer.com/article/10.1007/s10676-020-09547-x)  (or Sector Transgressions in our project), where firms use their advantages in one sector to enter and dominate existing players in another. It raises questions about whether regulators have the ability to scrutinise and demand accountability from such firms as they move into new sectors and offer new services, and whether the existing rules are sufficient to evaluate their conduct.
