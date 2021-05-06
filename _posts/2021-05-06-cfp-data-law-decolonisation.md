@@ -13,7 +13,7 @@ Through inviting decolonial perspectives, we seek articles that reflect on how d
 In doing so, we wish to examine how the hierarchies of power in some instances between governments and corporations, governments and other governments, communities and governments, and communities and corporations shape the regulation of data. We would like to understand the implications that such power differentials have in causing harm and in creating spaces of dominance, both in terms of how data is produced and flows, and in terms of how the regulations are challenged. 
 
 Some of the questions that the articles could cover are:
-* What does a decolonisation mean when examining a law for the digital economy at a global level?
+* What does decolonisation mean when examining a law for the digital economy at a global level?
 * What kinds of methods should be employed in developing data governance frameworks to account for different infrastructural capacities and socio-political contexts?
 * What are the concepts, terms and cases that must be included to think critically about data and law outside the Global North?
 
