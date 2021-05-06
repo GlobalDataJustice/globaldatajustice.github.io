@@ -6,7 +6,7 @@ tags: [data, law, decolonialsation, CfP, technology, regulation]
 ---
 ### *Special Issue on Data, Law, and Decolonisation*
 
-![Technology and Regulation](https://github.com/GlobalDataJustice/globaldatajustice.github.io/blob/master/img/TechReg.png "Technology and Regulation")
+![Technology and Regulation](/img/TechReg.png)
 
 In this Special Issue on Data, Law and Decolonisation, the [Technology and Regulation journal](https://techreg.org/) invites contributions that analyse the emergence of law for the digital economy at a global level (in terms of digital rights discourses, laws on data sharing, data for development in international law or competing privacy regulations) from a decolonial perspective. With the emergence of different models of data governance around the world such as public data trusts, data cooperatives and models around data sovereignty, we are interested in finding ways to build a more diverse and a more global understanding of these debates We wish to study how governments, international organizations and big tech corporations influence domestic and international legal regimes and shape transnational conversations about data governance and regulation. We would also like to reflect on the role that activists and community organizations play in shaping data governance frameworks. 
 
