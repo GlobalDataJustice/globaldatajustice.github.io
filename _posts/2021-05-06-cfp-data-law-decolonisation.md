@@ -21,7 +21,7 @@ Some of the questions that the articles could cover are:
 
 Guest editors: Siddharth de Souza, Linnet Taylor and Aaron Martin
 
-Submission Instructions: 
+Submission instructions: 
 Complementing work on [Global Data Law](https://www.guariniglobal.org/global-data-law-conference), [Decolonising Digital Rights](https://digitalfreedomfund.org/decolonising/), and thinking about [new vocabularies for AI](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-responses-and-challenges-to-the-critical-ai-discourse-f2275989fa62), we are looking for papers that can reflect on some of these questions both theoretically and empirically. Should you be interested, please submit an abstract (500 words) that contains the title, author name, research question, methodology and your main argument to info@globaldatajustice.org by 15th August 2021.
 
 Authors of selected abstracts will be informed 15th September 2021. If your paper is selected, we will ask you to submit the final paper (8,000-10,000 words) in electronic format by 15th January 2022.
