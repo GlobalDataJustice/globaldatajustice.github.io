@@ -43,7 +43,7 @@ Boudewijn van Eerd is a Technology Policy Consultant at [AWO](https://www.awo.ag
 
 ### Ana-Maria Hriscu
 
-Ana is a PhD candidate at the Tilburg Law School. She previously worked as a junior researcher on the Global Justice project, contributing to the rsearch initative on _Sphere transitions and transgressions during COVID-19_. She is interested in the challenges that data-driven technologies pose for privacy and data protection law, as well as for our understanding of what is fair and just treatment of individuals. She obtained a BA in Comparative & English Literature from the University of Kent in the UK, an LLB in Global Law, and an LLM in Law and Technology from Tilburg University.
+Ana is a PhD candidate at the Tilburg Law School. She previously worked as a junior researcher on the Global Justice project, contributing to the research initative on _Sphere transitions and transgressions during COVID-19_. She is interested in the challenges that data-driven technologies pose for privacy and data protection law, as well as for our understanding of what is fair and just treatment of individuals. She obtained a BA in Comparative & English Literature from the University of Kent in the UK, an LLB in Global Law, and an LLM in Law and Technology from Tilburg University.
 
 ### Tjaša Petročnik
 
