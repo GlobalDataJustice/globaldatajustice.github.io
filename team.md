@@ -27,9 +27,9 @@ Shaz is a social science researcher specializing in digital governance and smart
 
 Gargi is a researcher and policy officer in the Global Data Justice project at TILT. This position is funded by the [Luminate Foundation](https://luminategroup.com/) to curate and amplify the project's policy-relevant findings. She specializes in data governance in humanitarian and development contexts and is working on a [project](https://globaldatajustice.org/humanitariandatapartnerships/) involving research on the increased prevalence of data partnerships in the humanitarian sector, which addresses questions of regulation, ethics, and accountability. Prior to joining TILT, she was a legal consultant to the Government of Chhattisgarh in India and a legal intern at Greenpeace International. She has an Advanced LLM in European and International Human Rights Law from Leiden University.
 
-### Ana-Maria Hriscu
+### Franklyn Ohai
 
-Ana is a junior researcher in the Global Data Justice project. She contributes to the project on _Sphere transitions and transgressions during COVID-19: Challenging the tech sector's power grab in Europe_, funded by the [European Artificial Intelligence Fund](https://europeanaifund.org/tech-and-covid-19-grant/). She is interested in the challenges that data-driven technologies pose for privacy and data protection law, as well as for our understanding of what is fair and just treatment of individuals. Prior to joining the project, she obtained a BA in Comparative & English Literature from the University of Kent in the UK, an LLB in Global Law, and an LLM in Law and Technology from Tilburg University.
+Franklyn is a Student Assistant on the Global Data Justice project. He works on the research initiative on _Sphere transitions and transgressions during COVID-19: Challenging the tech sector's power grab in Europe_, funded by the [European Artificial Intelligence Fund](https://europeanaifund.org/tech-and-covid-19-grant/). He obtained his Bachelor of Laws (LLB Hons) from the University of Nigeria and is enrolled in the Law and Technology Master’s programme at Tilburg University. He is interested in understanding the impact of data technology on regulation and global development. Before joining the project, he served as a Legal Officer at the National Judicial Council (Nigeria), where he also researched human rights and access to justice. He has been called to the Nigerian Bar and is licensed to practise as a Barrister and Solicitor of the Supreme Court of Nigeria.
 
 ## Project Associates
 
@@ -41,9 +41,13 @@ Ana is a junior researcher in the Global Data Justice project. She contributes t
 
 Boudewijn van Eerd is a Technology Policy Consultant at [AWO](https://www.awo.agency/), a new data rights agency providing legal, consultancy and public policy services to international organisations, governments, companies, charities, universities, think tanks & individuals. He works on research and advisory services across a range of topics at the intersection of technology, data rights, law, humanitarian action, policy and societies. He holds an MA (cum laude) in International Relations from Leiden University and was a student fellow at Leiden University’s Centre for Innovation, during which time his work focused on responsible humanitarian innovation and the changing dynamics between public and private actors.
 
+### Ana-Maria Hriscu
+
+Ana is a PhD candidate at the Tilburg Law School. She previously worked as a junior researcher on the Global Justice project, contributing to the rsearch initative on _Sphere transitions and transgressions during COVID-19_. She is interested in the challenges that data-driven technologies pose for privacy and data protection law, as well as for our understanding of what is fair and just treatment of individuals. She obtained a BA in Comparative & English Literature from the University of Kent in the UK, an LLB in Global Law, and an LLM in Law and Technology from Tilburg University.
+
 ### Tjaša Petročnik
 
-After obtaining LLMs in EU Law and Law and Technology at Tilburg University, Tjaša is now a PhD candidate at the Department of Law, Technology, Markets, and Society at Tilburg Law School. Prior to her law course, Tjaša worked in EU public affairs both in Brussels and Ljubljana for five years, most recently with a focus on EU science and innovation policy, regulation, and funding. Tjaša is interested in the political economy of data and online platforms, the intersections of health, environment, and technology, as well as bioethics. She also holds a BA and an MA in Political Science from the University of Ljubljana.
+After obtaining LLMs in EU Law and Law and Technology at Tilburg University, Tjaša is now a PhD candidate at the Tilburg Law School. Prior to her law course, Tjaša worked in EU public affairs both in Brussels and Ljubljana for five years, most recently with a focus on EU science and innovation policy, regulation, and funding. Tjaša is interested in the political economy of data and online platforms, the intersections of health, environment, and technology, as well as bioethics. She also holds a BA and an MA in Political Science from the University of Ljubljana.
 
 ### Ouejdane Sabbah
 
