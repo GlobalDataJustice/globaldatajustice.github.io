@@ -5,7 +5,7 @@ subtitle:
 ---
 ### Linnet Taylor
 
-[Linnet](https://linnettaylor.wordpress.com/) is an Associate Professor of Data Ethics, Law and Policy at the Tilburg Institute for Law, Technology, and Society (TILT), where she leads the ERC-funded Global Data Justice project which aims to understand the different perspectives worldwide on what constitutes just treatment through data technologies. Her research focuses on the use of new sources of digital data in governance and research around issues of human and economic development. She was previously a Marie Curie research fellow in the University of Amsterdam’s International Development faculty, a postdoctoral researcher at the Oxford Internet Institute, and studied a DPhil in International Development at the Institute of Development Studies, University of Sussex. 
+[Linnet](https://linnettaylor.wordpress.com/) is an Associate Professor of Data Ethics, Law and Policy at the Tilburg Institute for Law, Technology, and Society (TILT), where she leads the ERC-funded Global Data Justice project which aims to understand the different perspectives worldwide on what constitutes just treatment through data technologies. Her research focuses on the use of new sources of digital data in governance and research around issues of human and economic development. She was previously a Marie Curie research fellow in the University of Amsterdam's International Development faculty, a postdoctoral researcher at the Oxford Internet Institute, and studied a DPhil in International Development at the Institute of Development Studies, University of Sussex. 
 
 ### Aaron Martin
 
