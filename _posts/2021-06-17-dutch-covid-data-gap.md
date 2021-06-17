@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Nu zie je het, nu niet: hoe Nederlandse statistieken ongelijkheid onzichtbaar maken 
+title: Nu zie je het, nu niet — hoe Nederlandse statistieken ongelijkheid onzichtbaar maken 
 subtitle: By Linnet Taylor and Tineke Broer
 tags: [data, technology, COVID-19]
 ---
