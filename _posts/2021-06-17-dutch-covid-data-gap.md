@@ -4,7 +4,6 @@ title: Nu zie je het, nu niet — hoe Nederlandse statistieken ongelijkheid onzi
 subtitle: By Linnet Taylor and Tineke Broer
 tags: [data, technology, COVID-19]
 ---
-
 _**English translation follows Dutch text.**_
 
 In de landen die het zwaarst door Covid-19 zijn getroffen, zijn er duidelijke aanwijzingen dat gemarginaliseerde groepen de ergste gevolgen van de ziekte dragen. Dit speelt zich in verschillende landen op verschillende manieren af: in de VS bijvoorbeeld zijn er aanzienlijke verschillen in sterftecijfers [naar ras en etniciteit](https://covidtracking.com/race). Israëli's hebben een [aanzienlijk lager sterftecijfer](https://www.reuters.com/article/health-coronavirus-palestinians-israel-v-idUSKBN2A32ED) als gevolg van Covid-19 dan Palestijnen op de Westelijke Jordaanoever of Gaza. In Brazilië is het hebben van gemengde afkomst de [tweede belangrijkste risicofactor]( https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30285-0/fulltext) , na leeftijd, voor de kans om aan Covid-19 sterven. Deze raciale en etnische (en daaraan gerelateerde) verschillen lijken in Nederland net zo goed aanwezig, maar worden onzichtbaar gemaakt door de weigering van de publieke gezondheidsautoriteiten om daarover te rapporteren.
