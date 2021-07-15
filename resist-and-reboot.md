@@ -8,7 +8,7 @@ Announcing _Resist and Reboot_, a new podcast looking at the intersection of com
 
 Find the first episode here on Wednesday, July 21st.
 
-![Resist and Reboot](RR_Logo.png)
+![Resist and Reboot](/img/RR_Logo.png)
 
 The podcast unpacks:
 - The role played by communities and civil society organisations (CSOs) in protecting digital rights
