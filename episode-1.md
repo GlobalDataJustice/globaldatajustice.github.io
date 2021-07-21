@@ -10,4 +10,4 @@ In this podcast, we discuss the ways in which technology can be made a public co
 
 You can learn more about The Glass Room Project Misinformation Edition [here](https://www.theglassroom.org/misinformation/) and the Data Detox kit [here](https://datadetoxkit.org/en/home).
 
-![Episode 1](/img/Resist and Reboot Episode 1.png#center)
+<iframe src="https://open.spotify.com/embed/episode/5Ujwam55bWso4AxAsnPchp" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
