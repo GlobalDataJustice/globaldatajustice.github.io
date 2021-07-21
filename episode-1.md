@@ -4,7 +4,7 @@ title: Episode 1 — Artefacts, Objects and exhibitions
 subtitle:
 ---
 
-![Episode 1](/img/Resist and Reboot Episode 1.png)
+![Episode 1](/img/Resist and Reboot Episode 1.png#center)
 
 In this episode, we talk to the Project Coordinator of The Glass Room Project at [Tactical Tech](https://tacticaltech.org/), a Berlin-based international NGO that engages with citizens and civil-society organisations to explore the impacts of technology on society. 
 
