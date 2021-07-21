@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Episode 1 — Artefacts, Objects and exhibitions
+title: Episode 1 — Artefacts, Objects and Exhibitions
 subtitle:
 ---
 
