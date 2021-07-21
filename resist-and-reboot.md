@@ -14,4 +14,4 @@ The podcast unpacks:
 - The community-building practices that inform the creation of an ecosystem that safeguards digital rights
 - Everyday challenges faced by CSOs working in the digital rights space.
 
-[![Episode 1](/img/Resist and Reboot Episode 1.png)](https://globaldatajustice.org/episode-1/)
+[![Episode 1](/img/Resist and Reboot Episode 1.png)](https://globaldatajustice.org/resist-and-reboot/episode-1/)
