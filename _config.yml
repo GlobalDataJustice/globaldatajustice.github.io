@@ -31,7 +31,7 @@ navbar-links:
   COVID-19: "covid-19"
   Team: "team"
   Blog: "blog"
-  Public Engagement: "media"
+  Podcast: "resist-and-reboot"
   Contact: "contact"
 
 paginate_path: "/blog/page:num/"
